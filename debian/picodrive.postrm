@@ -1,0 +1,5 @@
+#!/bin/sh
+if [ "$1" = "purge" ] 
+then
+	gconftool-2 --recursive-unset /apps/maemo/picodrive
+fi

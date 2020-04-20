@@ -1,0 +1,18 @@
+[Desktop Entry]
+Encoding=UTF-8
+Version=1.0
+Type=Application
+Name=PicoDrive
+Comment=PicoDrive 1.0 for Maemo
+Exec=/usr/bin/picodrive
+Path=/usr/bin/
+Icon=picodrive
+Categories=Games
+X-Window-Icon=picodrive
+X-Window-Icon-Dimmed=picodrive
+X-Osso-Service=com.jcq.picodrive
+X-Osso-Type=application/x-executable
+StartupWMClass=picodrive
+ServiceName=com.jcq.picodrive
+PathName=/com/jcq/picodrive
+InterfaceName=com.jcq.picodrive

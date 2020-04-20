@@ -1,0 +1,31 @@
+HELP(button name,
+	button slug,
+	button action,
+	diablo binding for player 1,
+	fremantle binding for player 1)
+BUTTON("A", a, P(A), 31, 31)
+BUTTON("B", b, P(B), 32, 32)
+BUTTON("C", c, P(C), 33, 33)
+BUTTON("X", x, P(X), 44, 44)
+BUTTON("Y", y, P(Y), 45, 45)
+BUTTON("Z", z, P(Z), 46, 46)
+BUTTON("Start", start, P(START), 65, 65)
+BUTTON("Mode", mode, P(MODE), 58, 58)
+BUTTON("↑", dn, P(UP), 25, 25)
+BUTTON("↓", ds, P(DOWN), 39, 39)
+BUTTON("←", dw, P(LEFT), 38, 38)
+BUTTON("→", de, P(RIGHT), 40, 40)
+BUTTON("←↑", dnw, P(UP) | P(LEFT), 0, 0)
+BUTTON("↑→", dne, P(UP) | P(RIGHT), 0, 0)
+BUTTON("←↓", dsw, P(DOWN) | P(LEFT), 0, 0)
+BUTTON("↓→", dse, P(DOWN) | P(RIGHT), 0, 0)
+ACTION(N_("Menu"), quit, A(Quit), 22, 22)
+ACTION("Quick Save 1", qs1, P(QS1), 0, 0)
+ACTION("Quick Save 2", qs2, P(QS2), 0, 0)
+ACTION("Quick Save 3", qs3, P(QS3), 0, 0)
+ACTION("Quick Save 4", qs4, P(QS4), 0, 0)
+ACTION("Quick Load 1", ql1, P(QL1), 0, 0)
+ACTION("Quick Load 2", ql2, P(QL2), 0, 0)
+ACTION("Quick Load 3", ql3, P(QL3), 0, 0)
+ACTION("Quick Load 4", ql4, P(QL4), 0, 0)
+LAST

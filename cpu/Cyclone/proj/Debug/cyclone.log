@@ -1,0 +1,49 @@
+﻿Build started 11/03/2010 19:41:19.
+     1>Project "C:\Users\Javi\Documents\Desarrollos\esbox\PicoDrive\cpu\Cyclone\proj\cyclone.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating ".\Debug\cyclone.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         All outputs are up-to-date.
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /Zi /nologo /W4 /WX- /O2 /Ob1 /Oy- /D _CRT_SECURE_NO_WARNINGS /D _VC80_UPGRADE=0x0600 /GF /Gm- /EHsc /MTd /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TC /analyze- /errorReport:prompt ..\disa\Disa.c
+         Disa.c
+         All outputs are up-to-date.
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /Zi /nologo /W4 /WX- /O2 /Ob1 /Oy- /D _CRT_SECURE_NO_WARNINGS /D _VC80_UPGRADE=0x0600 /GF /Gm- /EHsc /MTd /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt ..\Ea.cpp ..\Main.cpp ..\OpAny.cpp ..\OpArith.cpp ..\OpBranch.cpp ..\OpLogic.cpp ..\OpMove.cpp
+         Ea.cpp
+         Main.cpp
+     1>..\Main.cpp(789): warning C4100: 'need_addrerr_check' : unreferenced formal parameter
+         OpAny.cpp
+     1>..\OpAny.cpp(30): warning C4100: 'op_changes_cycles' : unreferenced formal parameter
+     1>..\OpAny.cpp(70): warning C4100: 'tea' : unreferenced formal parameter
+     1>..\OpAny.cpp(70): warning C4100: 'sea' : unreferenced formal parameter
+         OpArith.cpp
+         OpBranch.cpp
+         OpLogic.cpp
+         OpMove.cpp
+         Generating Code...
+       ManifestResourceCompile:
+         All outputs are up-to-date.
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\Microsoft.CppBuild.targets(989,5): warning MSB8012: TargetPath(C:\Users\Javi\Documents\Desarrollos\esbox\PicoDrive\cpu\Cyclone\proj\.\Debug\cyclone.exe) does not match the Linker's OutputFile property value (C:\Users\Javi\Documents\Desarrollos\esbox\PicoDrive\cpu\Cyclone\proj\cyclone.exe). This may cause your project to build incorrectly. To correct this, please make sure that $(OutDir), $(TargetName) and $(TargetExt) property values match the value specified in %(Link.OutputFile).
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"cyclone.exe" /INCREMENTAL /NOLOGO odbc32.lib odbccp32.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:".\Debug\cyclone.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\Javi\Documents\Desarrollos\esbox\PicoDrive\cpu\Cyclone\proj\Debug\cyclone.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:".\Debug\cyclone.lib" /MACHINE:X86 .\Debug\cyclone.exe.embed.manifest.res
+         Debug\Disa.obj
+         Debug\Ea.obj
+         Debug\Main.obj
+         Debug\OpAny.obj
+         Debug\OpArith.obj
+         Debug\OpBranch.obj
+         Debug\OpLogic.obj
+         Debug\OpMove.obj
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:".\Debug\cyclone.exe.embed.manifest" /manifest .\Debug\cyclone.exe.intermediate.manifest
+         All outputs are up-to-date.
+       LinkEmbedManifest:
+         All outputs are up-to-date.
+         cyclone.vcxproj -> C:\Users\Javi\Documents\Desarrollos\esbox\PicoDrive\cpu\Cyclone\proj\.\Debug\cyclone.exe
+       FinalizeBuildStatus:
+         Deleting file ".\Debug\cyclone.unsuccessfulbuild".
+         Touching ".\Debug\cyclone.lastbuildstate".
+     1>Done Building Project "C:\Users\Javi\Documents\Desarrollos\esbox\PicoDrive\cpu\Cyclone\proj\cyclone.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.97

@@ -1,0 +1,3 @@
+[D-BUS Service]
+Name=com.jcq.picodrive
+Exec=/usr/bin/picodrive

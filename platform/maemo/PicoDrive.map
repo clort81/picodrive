@@ -1,0 +1,1935 @@
+Archive member included to satisfy reference by file (symbol)
+
+/usr/lib/gcc/arm-linux-gnueabihf/8/libgcc.a(_divsi3.o)
+                              emu.o (__aeabi_idiv)
+/usr/lib/gcc/arm-linux-gnueabihf/8/libgcc.a(_dvmd_lnx.o)
+                              /usr/lib/gcc/arm-linux-gnueabihf/8/libgcc.a(_divsi3.o) (__aeabi_idiv0)
+//usr/lib/arm-linux-gnueabihf/libc_nonshared.a(elf-init.oS)
+                              /usr/lib/gcc/arm-linux-gnueabihf/8/../../../arm-linux-gnueabihf/Scrt1.o (__libc_csu_init)
+
+Allocating common symbols
+Common symbol       size              file
+
+ym_tl_tab           0x34000           ../../Pico/sound/ym2612.o
+z80startCycle       0x4               ../../Pico/Pico.o
+s68k_poll_adclk     0x4               ../../Pico/cd/Memory.o
+ym_tl_tab2          0x1a00            ../../Pico/sound/ym2612.o
+ym2612_dacout       0x4               ../../Pico/sound/ym2612.o
+HighCol             0x150             ../../Pico/Draw.o
+PicoCpuCS68k        0xb0              ../../Pico/cd/Sek.o
+z80stopCycle        0x4               ../../Pico/Pico.o
+HighPal             0x200             ../../Pico/Draw.o
+HighSprZ            0x150             ../../Pico/Draw.o
+rendstatus          0x4               ../../Pico/Draw.o
+Pico                0x22268           ../../Pico/Pico.o
+currentConfig       0x8c4             ../common/emu.o
+localPal            0x400             emu.o
+s68k_poll_cnt       0x4               ../../Pico/cd/Memory.o
+quickSlot           0x4               maemo.o
+ym2612_dacen        0x4               ../../Pico/sound/ym2612.o
+PicoCpuCM68k        0xb0              ../../Pico/Sek.o
+g_argv              0x4               main.o
+romFileName         0x1000            emu.o
+PicoPad             0x8               ../../Pico/Pico.o
+ym2612_st           0x4               ../../Pico/sound/ym2612.o
+sn76496_regs        0x4               ../../Pico/sound/sn76496.o
+engineState         0x4               emu.o
+drZ80               0x7c              ../../Pico/sound/sound.o
+md_screen           0x4               maemo.o
+noticeMsg           0x40              emu.o
+DefOutBuff          0x500             ../../Pico/Draw.o
+
+Discarded input sections
+
+ .note.GNU-stack
+                0x00000000        0x0 /usr/lib/gcc/arm-linux-gnueabihf/8/../../../arm-linux-gnueabihf/Scrt1.o
+ .note.GNU-stack
+                0x00000000        0x0 /usr/lib/gcc/arm-linux-gnueabihf/8/../../../arm-linux-gnueabihf/crti.o
+ .note.GNU-stack
+                0x00000000        0x0 /usr/lib/gcc/arm-linux-gnueabihf/8/crtbeginS.o
+ .note.GNU-stack
+                0x00000000        0x0 main.o
+ .note.GNU-stack
+                0x00000000        0x0 maemo.o
+ .note.GNU-stack
+                0x00000000        0x0 emu.o
+ .note.GNU-stack
+                0x00000000        0x0 ../common/emu.o
+ .note.GNU-stack
+                0x00000000        0x0 ../common/fonts.o
+ .note.GNU-stack
+                0x00000000        0x0 ../common/readpng.o
+ .note.GNU-stack
+                0x00000000        0x0 ../common/menu.o
+ .note.GNU-stack
+                0x00000000        0x0 ../../Pico/Area.o
+ .note.GNU-stack
+                0x00000000        0x0 ../../Pico/Cart.o
+ .note.GNU-stack
+                0x00000000        0x0 ../../Pico/Memory.o
+ .note.GNU-stack
+                0x00000000        0x0 ../../Pico/Misc.o
+ .note.GNU-stack
+                0x00000000        0x0 ../../Pico/Pico.o
+ .note.GNU-stack
+                0x00000000        0x0 ../../Pico/Sek.o
+ .note.GNU-stack
+                0x00000000        0x0 ../../Pico/VideoPort.o
+ .note.GNU-stack
+                0x00000000        0x0 ../../Pico/Draw2.o
+ .note.GNU-stack
+                0x00000000        0x0 ../../Pico/Draw.o
+ .note.GNU-stack
+                0x00000000        0x0 ../../Pico/Patch.o
+ .note.GNU-stack
+                0x00000000        0x0 ../../Pico/cd/Pico.o
+ .note.GNU-stack
+                0x00000000        0x0 ../../Pico/cd/Memory.o
+ .note.GNU-stack
+                0x00000000        0x0 ../../Pico/cd/Sek.o
+ .note.GNU-stack
+                0x00000000        0x0 ../../Pico/cd/LC89510.o
+ .note.GNU-stack
+                0x00000000        0x0 ../../Pico/cd/cd_sys.o
+ .note.GNU-stack
+                0x00000000        0x0 ../../Pico/cd/cd_file.o
+ .note.GNU-stack
+                0x00000000        0x0 ../../Pico/cd/gfx_cd.o
+ .note.GNU-stack
+                0x00000000        0x0 ../../Pico/cd/Area.o
+ .note.GNU-stack
+                0x00000000        0x0 ../../Pico/cd/Misc.o
+ .note.GNU-stack
+                0x00000000        0x0 ../../Pico/cd/pcm.o
+ .note.GNU-stack
+                0x00000000        0x0 ../../Pico/cd/buffering.o
+ .note.GNU-stack
+                0x00000000        0x0 ../../Pico/sound/sound.o
+ .note.GNU-stack
+                0x00000000        0x0 ../../Pico/sound/sn76496.o
+ .note.GNU-stack
+                0x00000000        0x0 ../../Pico/sound/ym2612.o
+ .note.GNU-stack
+                0x00000000        0x0 ../../zlib/gzio.o
+ .note.GNU-stack
+                0x00000000        0x0 ../../zlib/inffast.o
+ .note.GNU-stack
+                0x00000000        0x0 ../../zlib/inflate.o
+ .note.GNU-stack
+                0x00000000        0x0 ../../zlib/inftrees.o
+ .note.GNU-stack
+                0x00000000        0x0 ../../zlib/trees.o
+ .note.GNU-stack
+                0x00000000        0x0 ../../zlib/deflate.o
+ .note.GNU-stack
+                0x00000000        0x0 ../../zlib/crc32.o
+ .note.GNU-stack
+                0x00000000        0x0 ../../zlib/adler32.o
+ .note.GNU-stack
+                0x00000000        0x0 ../../zlib/zutil.o
+ .note.GNU-stack
+                0x00000000        0x0 ../../zlib/compress.o
+ .note.GNU-stack
+                0x00000000        0x0 ../../unzip/unzip.o
+ .note.GNU-stack
+                0x00000000        0x0 ../../unzip/unzip_stream.o
+ .note.GNU-stack
+                0x00000000        0x0 /usr/lib/gcc/arm-linux-gnueabihf/8/libgcc.a(_divsi3.o)
+ .note.GNU-stack
+                0x00000000        0x0 /usr/lib/gcc/arm-linux-gnueabihf/8/libgcc.a(_dvmd_lnx.o)
+ .note.GNU-stack
+                0x00000000        0x0 //usr/lib/arm-linux-gnueabihf/libc_nonshared.a(elf-init.oS)
+ .note.GNU-stack
+                0x00000000        0x0 /usr/lib/gcc/arm-linux-gnueabihf/8/crtendS.o
+ .note.GNU-stack
+                0x00000000        0x0 /usr/lib/gcc/arm-linux-gnueabihf/8/../../../arm-linux-gnueabihf/crtn.o
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+LOAD /usr/lib/gcc/arm-linux-gnueabihf/8/../../../arm-linux-gnueabihf/Scrt1.o
+LOAD /usr/lib/gcc/arm-linux-gnueabihf/8/../../../arm-linux-gnueabihf/crti.o
+LOAD /usr/lib/gcc/arm-linux-gnueabihf/8/crtbeginS.o
+LOAD /usr/lib/gcc/arm-linux-gnueabihf/8/../../../arm-linux-gnueabihf/libgstreamer-1.0.so
+LOAD /usr/lib/gcc/arm-linux-gnueabihf/8/../../../arm-linux-gnueabihf/libgobject-2.0.so
+LOAD /usr/lib/gcc/arm-linux-gnueabihf/8/../../../arm-linux-gnueabihf/libglib-2.0.so
+LOAD /usr/lib/gcc/arm-linux-gnueabihf/8/../../../arm-linux-gnueabihf/libglib-2.0.so
+LOAD /usr/lib/gcc/arm-linux-gnueabihf/8/../../../arm-linux-gnueabihf/libgconf-2.so
+LOAD /usr/lib/gcc/arm-linux-gnueabihf/8/../../../arm-linux-gnueabihf/libglib-2.0.so
+LOAD /usr/lib/gcc/arm-linux-gnueabihf/8/../../../arm-linux-gnueabihf/libgtk-x11-2.0.so
+LOAD /usr/lib/gcc/arm-linux-gnueabihf/8/../../../arm-linux-gnueabihf/libgdk-x11-2.0.so
+LOAD /usr/lib/gcc/arm-linux-gnueabihf/8/../../../arm-linux-gnueabihf/libpangocairo-1.0.so
+LOAD /usr/lib/gcc/arm-linux-gnueabihf/8/../../../arm-linux-gnueabihf/libatk-1.0.so
+LOAD /usr/lib/gcc/arm-linux-gnueabihf/8/../../../arm-linux-gnueabihf/libcairo.so
+LOAD /usr/lib/gcc/arm-linux-gnueabihf/8/../../../arm-linux-gnueabihf/libgdk_pixbuf-2.0.so
+LOAD /usr/lib/gcc/arm-linux-gnueabihf/8/../../../arm-linux-gnueabihf/libgio-2.0.so
+LOAD /usr/lib/gcc/arm-linux-gnueabihf/8/../../../arm-linux-gnueabihf/libpangoft2-1.0.so
+LOAD /usr/lib/gcc/arm-linux-gnueabihf/8/../../../arm-linux-gnueabihf/libpango-1.0.so
+LOAD /usr/lib/gcc/arm-linux-gnueabihf/8/../../../arm-linux-gnueabihf/libgobject-2.0.so
+LOAD /usr/lib/gcc/arm-linux-gnueabihf/8/../../../arm-linux-gnueabihf/libglib-2.0.so
+LOAD /usr/lib/gcc/arm-linux-gnueabihf/8/../../../arm-linux-gnueabihf/libfontconfig.so
+LOAD /usr/lib/gcc/arm-linux-gnueabihf/8/../../../arm-linux-gnueabihf/libfreetype.so
+LOAD main.o
+LOAD maemo.o
+LOAD emu.o
+LOAD ../common/emu.o
+LOAD ../common/fonts.o
+LOAD ../common/arm_utils.o
+LOAD ../common/readpng.o
+LOAD ../common/menu.o
+LOAD ../../Pico/Area.o
+LOAD ../../Pico/Cart.o
+LOAD ../../Pico/Memory.o
+LOAD ../../Pico/Misc.o
+LOAD ../../Pico/Pico.o
+LOAD ../../Pico/Sek.o
+LOAD ../../Pico/VideoPort.o
+LOAD ../../Pico/Draw2.o
+LOAD ../../Pico/Draw.o
+LOAD ../../Pico/Patch.o
+LOAD ../../Pico/cd/Pico.o
+LOAD ../../Pico/cd/Memory.o
+LOAD ../../Pico/cd/Sek.o
+LOAD ../../Pico/cd/LC89510.o
+LOAD ../../Pico/cd/cd_sys.o
+LOAD ../../Pico/cd/cd_file.o
+LOAD ../../Pico/cd/gfx_cd.o
+LOAD ../../Pico/cd/Area.o
+LOAD ../../Pico/cd/Misc.o
+LOAD ../../Pico/cd/pcm.o
+LOAD ../../Pico/cd/buffering.o
+LOAD ../../Pico/draw_asm.o
+LOAD ../../Pico/draw2_asm.o
+LOAD ../../Pico/memory_asm.o
+LOAD ../../Pico/sound/ym2612_asm.o
+LOAD ../../Pico/misc_asm.o
+LOAD ../../Pico/cd/misc_asm.o
+LOAD ../../Pico/cd/pico_asm.o
+LOAD ../../Pico/cd/memory_asm.o
+LOAD ../../Pico/sound/sound.o
+LOAD ../../Pico/sound/mix_asm.o
+LOAD ../../Pico/sound/sn76496.o
+LOAD ../../Pico/sound/ym2612.o
+LOAD ../../zlib/gzio.o
+LOAD ../../zlib/inffast.o
+LOAD ../../zlib/inflate.o
+LOAD ../../zlib/inftrees.o
+LOAD ../../zlib/trees.o
+LOAD ../../zlib/deflate.o
+LOAD ../../zlib/crc32.o
+LOAD ../../zlib/adler32.o
+LOAD ../../zlib/zutil.o
+LOAD ../../zlib/compress.o
+LOAD ../../unzip/unzip.o
+LOAD ../../unzip/unzip_stream.o
+LOAD ../../cpu/Cyclone/proj/Cyclone.o
+LOAD ../../cpu/DrZ80/drz80.o
+LOAD /usr/lib/gcc/arm-linux-gnueabihf/8/../../../arm-linux-gnueabihf/libm.so
+LOAD /usr/lib/gcc/arm-linux-gnueabihf/8/../../../arm-linux-gnueabihf/libpng.so
+LOAD /usr/lib/gcc/arm-linux-gnueabihf/8/../../../arm-linux-gnueabihf/libSDL.so
+LOAD /usr/lib/gcc/arm-linux-gnueabihf/8/../../../arm-linux-gnueabihf/libosso.so
+LOAD /usr/lib/gcc/arm-linux-gnueabihf/8/libgcc.a
+LOAD /usr/lib/gcc/arm-linux-gnueabihf/8/libgcc_s.so
+START GROUP
+LOAD /usr/lib/gcc/arm-linux-gnueabihf/8/libgcc_s.so.1
+LOAD /usr/lib/gcc/arm-linux-gnueabihf/8/libgcc.a
+END GROUP
+LOAD /usr/lib/gcc/arm-linux-gnueabihf/8/../../../arm-linux-gnueabihf/libpthread.so
+LOAD /usr/lib/gcc/arm-linux-gnueabihf/8/../../../arm-linux-gnueabihf/libc.so
+START GROUP
+LOAD //lib/arm-linux-gnueabihf/libc.so.6
+LOAD //usr/lib/arm-linux-gnueabihf/libc_nonshared.a
+LOAD //lib/arm-linux-gnueabihf/ld-linux-armhf.so.3
+END GROUP
+LOAD /usr/lib/gcc/arm-linux-gnueabihf/8/libgcc.a
+LOAD /usr/lib/gcc/arm-linux-gnueabihf/8/libgcc_s.so
+START GROUP
+LOAD /usr/lib/gcc/arm-linux-gnueabihf/8/libgcc_s.so.1
+LOAD /usr/lib/gcc/arm-linux-gnueabihf/8/libgcc.a
+END GROUP
+LOAD /usr/lib/gcc/arm-linux-gnueabihf/8/crtendS.o
+LOAD /usr/lib/gcc/arm-linux-gnueabihf/8/../../../arm-linux-gnueabihf/crtn.o
+                [!provide]                PROVIDE (__executable_start = SEGMENT_START ("text-segment", 0x0))
+                0x00000154                . = (SEGMENT_START ("text-segment", 0x0) + SIZEOF_HEADERS)
+
+.interp         0x00000154       0x19
+ *(.interp)
+ .interp        0x00000154       0x19 /usr/lib/gcc/arm-linux-gnueabihf/8/../../../arm-linux-gnueabihf/Scrt1.o
+
+.note.ABI-tag   0x00000170       0x20
+ .note.ABI-tag  0x00000170       0x20 /usr/lib/gcc/arm-linux-gnueabihf/8/../../../arm-linux-gnueabihf/Scrt1.o
+
+.note.gnu.build-id
+                0x00000190       0x24
+ *(.note.gnu.build-id)
+ .note.gnu.build-id
+                0x00000190       0x24 linker stubs
+
+.hash
+ *(.hash)
+
+.gnu.hash       0x000001b4      0x1dc
+ *(.gnu.hash)
+ .gnu.hash      0x000001b4      0x1dc /usr/lib/gcc/arm-linux-gnueabihf/8/../../../arm-linux-gnueabihf/Scrt1.o
+
+.dynsym         0x00000390      0xc10
+ *(.dynsym)
+ .dynsym        0x00000390      0xc10 /usr/lib/gcc/arm-linux-gnueabihf/8/../../../arm-linux-gnueabihf/Scrt1.o
+
+.dynstr         0x00000fa0      0xa34
+ *(.dynstr)
+ .dynstr        0x00000fa0      0xa34 /usr/lib/gcc/arm-linux-gnueabihf/8/../../../arm-linux-gnueabihf/Scrt1.o
+
+.gnu.version    0x000019d4      0x182
+ *(.gnu.version)
+ .gnu.version   0x000019d4      0x182 /usr/lib/gcc/arm-linux-gnueabihf/8/../../../arm-linux-gnueabihf/Scrt1.o
+
+.gnu.version_d  0x00001b58        0x0
+ *(.gnu.version_d)
+ .gnu.version_d
+                0x00001b58        0x0 /usr/lib/gcc/arm-linux-gnueabihf/8/../../../arm-linux-gnueabihf/Scrt1.o
+
+.gnu.version_r  0x00001b58       0x90
+ *(.gnu.version_r)
+ .gnu.version_r
+                0x00001b58       0x90 /usr/lib/gcc/arm-linux-gnueabihf/8/../../../arm-linux-gnueabihf/Scrt1.o
+
+.rel.dyn        0x00001be8     0x9658
+ *(.rel.init)
+ *(.rel.text .rel.text.* .rel.gnu.linkonce.t.*)
+ .rel.text      0x00001be8     0x2e20 /usr/lib/gcc/arm-linux-gnueabihf/8/../../../arm-linux-gnueabihf/Scrt1.o
+ *(.rel.fini)
+ *(.rel.rodata .rel.rodata.* .rel.gnu.linkonce.r.*)
+ *(.rel.data.rel.ro .rel.data.rel.ro.* .rel.gnu.linkonce.d.rel.ro.*)
+ .rel.data.rel.ro
+                0x00004a08        0x0 /usr/lib/gcc/arm-linux-gnueabihf/8/../../../arm-linux-gnueabihf/Scrt1.o
+ .rel.data.rel.ro.local
+                0x00004a08       0xa0 /usr/lib/gcc/arm-linux-gnueabihf/8/../../../arm-linux-gnueabihf/Scrt1.o
+ *(.rel.data .rel.data.* .rel.gnu.linkonce.d.*)
+ .rel.data.rel.local
+                0x00004aa8      0x1f0 /usr/lib/gcc/arm-linux-gnueabihf/8/../../../arm-linux-gnueabihf/Scrt1.o
+ .rel.data.rel  0x00004c98       0x20 /usr/lib/gcc/arm-linux-gnueabihf/8/../../../arm-linux-gnueabihf/Scrt1.o
+ .rel.data      0x00004cb8     0x61d0 /usr/lib/gcc/arm-linux-gnueabihf/8/../../../arm-linux-gnueabihf/Scrt1.o
+ *(.rel.tdata .rel.tdata.* .rel.gnu.linkonce.td.*)
+ *(.rel.tbss .rel.tbss.* .rel.gnu.linkonce.tb.*)
+ *(.rel.ctors)
+ *(.rel.dtors)
+ *(.rel.got)
+ .rel.got       0x0000ae88      0x3a8 /usr/lib/gcc/arm-linux-gnueabihf/8/../../../arm-linux-gnueabihf/Scrt1.o
+ *(.rel.bss .rel.bss.* .rel.gnu.linkonce.b.*)
+ .rel.bss       0x0000b230        0x0 /usr/lib/gcc/arm-linux-gnueabihf/8/../../../arm-linux-gnueabihf/Scrt1.o
+                [!provide]                PROVIDE (__rel_iplt_start = .)
+ *(.rel.iplt)
+ .rel.iplt      0x0000b230        0x0 /usr/lib/gcc/arm-linux-gnueabihf/8/../../../arm-linux-gnueabihf/Scrt1.o
+                [!provide]                PROVIDE (__rel_iplt_end = .)
+ .rel.fini_array
+                0x0000b230        0x8 /usr/lib/gcc/arm-linux-gnueabihf/8/../../../arm-linux-gnueabihf/Scrt1.o
+ .rel.init_array
+                0x0000b238        0x8 /usr/lib/gcc/arm-linux-gnueabihf/8/../../../arm-linux-gnueabihf/Scrt1.o
+
+.rela.dyn       0x0000b240        0x0
+ *(.rela.init)
+ *(.rela.text .rela.text.* .rela.gnu.linkonce.t.*)
+ *(.rela.fini)
+ *(.rela.rodata .rela.rodata.* .rela.gnu.linkonce.r.*)
+ *(.rela.data .rela.data.* .rela.gnu.linkonce.d.*)
+ *(.rela.tdata .rela.tdata.* .rela.gnu.linkonce.td.*)
+ *(.rela.tbss .rela.tbss.* .rela.gnu.linkonce.tb.*)
+ *(.rela.ctors)
+ *(.rela.dtors)
+ *(.rela.got)
+ *(.rela.bss .rela.bss.* .rela.gnu.linkonce.b.*)
+                [!provide]                PROVIDE (__rela_iplt_start = .)
+ *(.rela.iplt)
+                [!provide]                PROVIDE (__rela_iplt_end = .)
+
+.rel.plt        0x0000b240      0x3d8
+ *(.rel.plt)
+ .rel.plt       0x0000b240      0x3d8 /usr/lib/gcc/arm-linux-gnueabihf/8/../../../arm-linux-gnueabihf/Scrt1.o
+
+.rela.plt
+ *(.rela.plt)
+
+.init           0x0000b618        0xc
+ *(SORT_NONE(.init))
+ .init          0x0000b618        0x8 /usr/lib/gcc/arm-linux-gnueabihf/8/../../../arm-linux-gnueabihf/crti.o
+                0x0000b618                _init
+ .init          0x0000b620        0x4 /usr/lib/gcc/arm-linux-gnueabihf/8/../../../arm-linux-gnueabihf/crtn.o
+
+.plt            0x0000b624      0x5d8
+ *(.plt)
+ .plt           0x0000b624      0x5d8 /usr/lib/gcc/arm-linux-gnueabihf/8/../../../arm-linux-gnueabihf/Scrt1.o
+
+.iplt           0x0000bbfc        0x0
+ *(.iplt)
+ .iplt          0x0000bbfc        0x0 /usr/lib/gcc/arm-linux-gnueabihf/8/../../../arm-linux-gnueabihf/Scrt1.o
+
+.text           0x0000bc00    0x632f0
+ *(.text.unlikely .text.*_unlikely .text.unlikely.*)
+ *(.text.exit .text.exit.*)
+ *(.text.startup .text.startup.*)
+ *(.text.hot .text.hot.*)
+ *(.text .stub .text.* .gnu.linkonce.t.*)
+ .text          0x0000bc00       0x48 /usr/lib/gcc/arm-linux-gnueabihf/8/../../../arm-linux-gnueabihf/Scrt1.o
+                0x0000bc00                _start
+ .text          0x0000bc48       0x24 /usr/lib/gcc/arm-linux-gnueabihf/8/../../../arm-linux-gnueabihf/crti.o
+ .text          0x0000bc6c       0xa4 /usr/lib/gcc/arm-linux-gnueabihf/8/crtbeginS.o
+ .text          0x0000bd10     0x1c1c main.o
+                0x0000bd10                check_file
+                0x0000bd58                cli_config
+                0x0000c8c0                parse_cmd_line
+                0x0000d624                osso_events
+                0x0000d6a8                sig_handler
+                0x0000d6cc                main
+ .text          0x0000d92c      0xed4 maemo.o
+                0x0000df9c                maemo_quit
+                0x0000e078                maemo_video_flip
+                0x0000e394                maemo_memset_buffer
+                0x0000e3c8                maemo_cls
+                0x0000e3f0                maemo_joystick_read
+                0x0000e428                mp3_get_offset
+                0x0000e454                mp3_start_play
+                0x0000e4f4                maemo_start_sound
+                0x0000e518                maemo_sound_write
+                0x0000e5c0                maemo_sound_sync
+                0x0000e5ce                maemo_sound_volume
+                0x0000e5e4                maemo_init
+                0x0000e770                maemo_deinit
+                0x0000e7dc                lprintf
+ .text          0x0000e800     0x14b0 emu.o
+                0x0000e800                emu_noticeMsgUpdated
+                0x0000e818                emu_getMainDir
+                0x0000e84c                emu_Init
+                0x0000e8f4                emu_Deinit
+                0x0000e910                emu_setDefaultConfig
+                0x0000ea70                osd_text
+                0x0000f0d8                emu_set_state
+                0x0000f22c                emu_Loop
+                0x0000f9bc                emu_ResetGame
+                0x0000fbbc                emu_load_snapshot
+                0x0000fbce                emu_save_snapshot
+                0x0000fbe0                emu_quickload
+                0x0000fc48                emu_quicksave
+ .text          0x0000fcb0     0x207c ../common/emu.o
+                0x0000fcb0                menu_romload_prepare
+                0x0000fcc4                menu_romload_end
+                0x0000fdc2                emu_findBios
+                0x0001006c                emu_cdCheck
+                0x000101bc                emu_ReloadRom
+                0x00010a8c                emu_ReadConfig
+                0x00010d6c                emu_WriteConfig
+                0x00010fa8                emu_textOut8
+                0x00011124                emu_textOut16
+                0x000112b0                emu_updateMovie
+                0x000115ec                emu_GetSaveFName
+                0x00011884                emu_checkSaveFile
+                0x000118aa                emu_setSaveStateCbs
+                0x00011980                emu_SaveLoadGame
+ .text          0x00011d2c        0x0 ../common/fonts.o
+ *fill*         0x00011d2c        0x4 
+ .text          0x00011d30      0x4b8 ../common/arm_utils.o
+                0x00011d30                vidConvCpyRGB32
+                0x00011e24                vidConvCpyRGB32sh
+                0x00011f28                vidConvCpyRGB32hi
+                0x0001213c                vidCpyM2_40col
+                0x00012178                vidCpyM2_32col
+                0x000121bc                vidCpyM2_32col_nobord
+                0x000121cc                spend_cycles
+                0x000121e0                flushcache
+ .text          0x000121e8      0x838 ../common/readpng.o
+                0x000121e8                readpng
+                0x000127e0                writepng
+ .text          0x00012a20      0xbf8 ../common/menu.o
+                0x00012d4c                text_out16
+                0x00012da4                smalltext_out16
+                0x00012e64                smalltext_out16_lim
+                0x00012eb6                menu_draw_selection
+                0x00012fd0                menu_init
+                0x00013300                me_id2offset
+                0x0001335c                me_enable
+                0x00013390                me_count_enabled
+                0x000133d8                me_index2id
+                0x00013442                me_draw
+                0x00013568                me_process
+ .text          0x00013618      0x4dc ../../Pico/Area.o
+                0x00013684                PicoAreaPackCpu
+                0x00013718                PicoAreaUnpackCpu
+                0x00013a04                PmovState
+ .text          0x00013af4     0x12bc ../../Pico/Cart.o
+                0x00013b74                pm_open
+                0x00013f80                pm_read
+                0x00014270                pm_seek
+                0x00014388                pm_close
+                0x0001440e                Byteswap
+                0x00014648                PicoCartLoad
+                0x00014840                PicoCartInsert
+                0x000148d0                PicoUnloadCart
+                0x00014974                PicoCartDetect
+ .text          0x00014db0     0x184c ../../Pico/Memory.o
+                0x00014f08                PicoInitPc
+                0x00014f20                PadRead
+                0x0001503c                SRAMRead
+                0x000150d4                SRAMRead16
+                0x0001530c                OtherRead16End
+                0x000158a0                z80Read8
+                0x000159a8                z80ReadBusReq
+                0x00015a68                z80WriteBusReq
+                0x00015c30                OtherRead16
+                0x00015ea0                OtherWrite8
+                0x00015f22                OtherWrite16
+                0x00016180                PicoWrite16
+                0x00016298                PicoMemSetup
+                0x00016348                z80_read
+                0x00016408                z80_write
+                0x00016588                z80_read16
+                0x000165be                z80_write16
+ .text          0x000165fc      0x5e8 ../../Pico/Misc.o
+                0x000165fc                SRAMWriteEEPROM
+                0x00016988                SRAMReadEEPROM
+                0x00016b24                SRAMUpdPending
+ .text          0x00016be4     0x1edc ../../Pico/Pico.o
+                0x00016be4                PicoInit
+                0x00016c3c                PicoExit
+                0x00016c8c                PicoReset
+                0x000170c8                CheckDMA
+                0x000184bc                PicoFrame
+                0x0001857c                PicoFrameDrawOnly
+                0x000185a6                debugString
+ .text          0x00018ac0      0x244 ../../Pico/Sek.o
+                0x00018bc8                SekInit
+                0x00018c2c                SekReset
+                0x00018cc0                SekState
+                0x00018cec                SekSetRealTAS
+ .text          0x00018d04     0x1180 ../../Pico/VideoPort.o
+                0x0001985c                PicoVideoWrite
+                0x00019be8                PicoVideoRead
+ .text          0x00019e84      0x644 ../../Pico/Draw2.o
+                0x0001a46c                PicoFrameFull
+ .text          0x0001a4c8     0x24a0 ../../Pico/Draw.o
+                0x0001b6e8                DrawStripInterlace
+                0x0001c728                PicoFrameStart
+                0x0001c800                PicoLine
+                0x0001c8e8                PicoDrawSetColorFormat
+ .text          0x0001c968      0x998 ../../Pico/Patch.o
+                0x0001cd62                PicoPatchUnload
+                0x0001cda4                PicoPatchLoad
+                0x0001d0dc                PicoPatchPrepare
+                0x0001d1b0                PicoPatchApply
+ .text          0x0001d300     0x12e4 ../../Pico/cd/Pico.o
+                0x0001d300                PicoInitMCD
+                0x0001d312                PicoExitMCD
+                0x0001d31e                PicoResetMCD
+                0x0001e5b8                PicoFrameMCD
+ .text          0x0001e5e4     0x11f4 ../../Pico/cd/Memory.o
+                0x0001e5e4                m68k_reg_write8
+                0x0001e964                s68k_poll_detect
+                0x0001eac0                s68k_reg_read16
+                0x0001efe0                s68k_reg_write8
+                0x0001f66c                PicoMemSetupCD
+ .text          0x0001f7d8      0x2d0 ../../Pico/cd/Sek.o
+                0x0001f90c                SekInitS68k
+                0x0001f960                SekResetS68k
+                0x0001f9fc                SekInterruptS68k
+ .text          0x0001faa8     0x1d0c ../../Pico/cd/LC89510.o
+                0x0001fd58                LC89510_Reset
+                0x0001fd94                Update_CDC_TRansfer
+                0x0002023c                Read_CDC_Host
+                0x00020528                CDC_Update_Header
+                0x00020724                CDC_Read_Reg
+                0x00020df8                CDC_Write_Reg
+                0x0002134c                CDD_Export_Status
+                0x000214d4                CDD_Import_Command
+ .text          0x000217b4     0x42d4 ../../Pico/cd/cd_sys.o
+                0x000217ec                LBA_to_MSF
+                0x00021a9c                Track_to_LBA
+                0x00021ac4                Check_CD_Command
+                0x00021cf8                Init_CD_Driver
+                0x00021d08                End_CD_Driver
+                0x00021d14                Reset_CD
+                0x00021e08                Insert_CD
+                0x00021e98                Stop_CD
+                0x00021eb4                Get_Status_CDD_c0
+                0x00022064                Stop_CDD_c1
+                0x000222b0                Get_Pos_CDD_c20
+                0x00022614                Get_Track_Pos_CDD_c21
+                0x000229a8                Get_Current_Track_CDD_c22
+                0x00022d18                Get_Total_Lenght_CDD_c23
+                0x0002322c                Get_First_Last_Track_CDD_c24
+                0x000234d4                Get_Track_Adr_CDD_c25
+                0x00023a14                Play_CDD_c3
+                0x0002400c                Seek_CDD_c4
+                0x00024490                Pause_CDD_c6
+                0x000247b0                Resume_CDD_c7
+                0x00024c34                Fast_Foward_CDD_c8
+                0x00024fac                Fast_Rewind_CDD_c9
+                0x00025328                Close_Tray_CDD_cC
+                0x000254a4                Open_Tray_CDD_cD
+                0x000256e4                CDD_cA
+                0x000259d0                CDD_Def
+ .text          0x00025a88      0xaa0 ../../Pico/cd/cd_file.o
+                0x00025a88                Load_ISO
+                0x00025e48                Unload_ISO
+                0x00025f2c                FILE_Read_One_LBA_CDC
+                0x0002645c                FILE_Play_CD_LBA
+ .text          0x00026528     0x1280 ../../Pico/cd/gfx_cd.o
+                0x00026fb0                gfx_cd_update
+                0x000271c4                gfx_cd_read
+                0x0002730c                gfx_cd_write16
+                0x000274b4                gfx_cd_reset
+                0x000275aa                DmaSlowCell
+ .text          0x000277a8     0x3344 ../../Pico/cd/Area.o
+                0x00027830                PicoCdSaveState
+                0x000280d0                PicoCdLoadState
+                0x0002a2d0                PicoCdLoadStateGfx
+ .text          0x0002aaec        0x0 ../../Pico/cd/Misc.o
+ *fill*         0x0002aaec        0x4 
+ .text          0x0002aaf0      0x690 ../../Pico/cd/pcm.o
+                0x0002aaf0                pcm_write
+                0x0002ae84                pcm_set_rate
+                0x0002af74                pcm_update
+ .text          0x0002b180      0x500 ../../Pico/cd/buffering.o
+                0x0002b180                PicoCDBufferInit
+                0x0002b250                PicoCDBufferFree
+                0x0002b314                PicoCDBufferRead
+ .text          0x0002b680     0x2048 ../../Pico/draw_asm.o
+                0x0002b680                DrawLayer
+                0x0002bc98                BackFill
+                0x0002bd00                DrawTilesFromCache
+                0x0002c1bc                DrawSpritesFromCache
+                0x0002c860                DrawSprite
+                0x0002cf6c                DrawWindow
+                0x0002d1bc                FinalizeLineBGR444
+                0x0002d318                vidConvCpyRGB565
+                0x0002d3f4                FinalizeLineRGB555
+                0x0002d64c                blockcpy
+                0x0002d66c                blockcpy_or
+ .text          0x0002d6c8     0x226c ../../Pico/draw2_asm.o
+                0x0002d6c8                BackFillFull
+                0x0002d748                DrawLayerFull
+                0x0002e14c                DrawTilesFromCacheF
+                0x0002e9bc                DrawWindowFull
+                0x0002f100                DrawSpriteFull
+ *fill*         0x0002f934        0xc 
+ .text          0x0002f940      0xfa0 ../../Pico/memory_asm.o
+                0x0002fac0                PicoMemReset
+                0x0002fbcc                PicoRead8
+                0x0002fbdc                PicoRead16
+                0x0002fbec                PicoRead32
+                0x0002fe74                m_m68k_read8_misc
+                0x000306b8                PicoWriteRomHW_SSF2
+                0x00030718                PicoWrite8
+                0x00030738                m_m68k_write8_misc
+ .text          0x000308e0     0x1050 ../../Pico/sound/ym2612_asm.o
+                0x000308e0                chan_render_loop
+ .text          0x00031930      0x1ac ../../Pico/misc_asm.o
+                0x00031930                memcpy16
+                0x0003198c                memcpy16bswap
+                0x00031a5c                memcpy32
+                0x00031aa0                memset32
+ .text          0x00031adc      0x108 ../../Pico/cd/misc_asm.o
+                0x00031adc                wram_2M_to_1M
+                0x00031b60                wram_1M_to_2M
+ *fill*         0x00031be4        0xc 
+ .text          0x00031bf0      0x1b8 ../../Pico/cd/pico_asm.o
+                0x00031bf0                SekRunPS
+ *fill*         0x00031da8        0x8 
+ .text          0x00031db0     0x2788 ../../Pico/cd/memory_asm.o
+                0x00031db0                PicoMemResetCD
+                0x0003209c                PicoMemResetCDdecode
+                0x00032200                PicoReadM68k8
+                0x00032210                PicoReadM68k16
+                0x00032220                PicoReadM68k32
+                0x00032230                PicoWriteM68k8
+                0x00032240                PicoWriteM68k16
+                0x00032250                PicoWriteM68k32
+                0x00032260                PicoReadS68k8
+                0x000322a4                PicoReadS68k16
+                0x000322e8                PicoReadS68k32
+                0x0003232c                PicoWriteS68k8
+                0x00032370                PicoWriteS68k16
+                0x000323b4                PicoWriteS68k32
+ .text          0x00034538      0xca4 ../../Pico/sound/sound.o
+                0x00034738                PsndReset
+                0x00034784                PsndRerate
+                0x000349f0                Psnd_timers_and_dac
+                0x00034bf4                PsndClear
+                0x00034ca8                PsndRender
+                0x00034f10                z80_init
+                0x00034fb8                z80_reset
+                0x00035050                z80_pack
+                0x000350d4                z80_unpack
+                0x00035184                z80_exit
+                0x00035192                z80_debug
+ *fill*         0x000351dc        0x4 
+ .text          0x000351e0      0x4ac ../../Pico/sound/mix_asm.o
+                0x000351e0                mix_16h_to_32
+                0x00035258                mix_16h_to_32_s1
+                0x000352d4                mix_16h_to_32_s2
+                0x00035350                mix_32_to_16l_stereo
+                0x00035438                mix_32_to_16_mono
+                0x00035580                mix_32_to_16l_stereo_lvl
+ *fill*         0x0003568c        0x4 
+ .text          0x00035690      0x8b4 ../../Pico/sound/sn76496.o
+                0x00035690                SN76496Write
+                0x000359bc                SN76496Update
+                0x00035e48                SN76496_init
+ *fill*         0x00035f44        0x4 
+ .text          0x00035f48     0x20d8 ../../Pico/sound/ym2612.o
+                0x000376f8                YM2612UpdateOne_
+                0x000379c0                YM2612Init_
+                0x00037a60                YM2612ResetChip_
+                0x00037b88                YM2612Write_
+                0x00037f64                YM2612PicoStateLoad_
+                0x00038008                YM2612GetRegs
+ .text          0x00038020     0x1428 ../../zlib/gzio.o
+                0x00038324                gzopen
+                0x00038344                gzdopen
+                0x00038384                gzsetparams
+                0x0003865c                destroy
+                0x0003873c                gzread
+                0x00038a54                gzgetc
+                0x00038a80                gzungetc
+                0x00038afc                gzgets
+                0x00038b66                gzwrite
+                0x00038c66                gzprintf
+                0x00038d1c                gzputc
+                0x00038d50                gzputs
+                0x00038e82                gzflush
+                0x00038ec6                gzseek
+                0x000390d8                gzrewind
+                0x00039162                gztell
+                0x0003917e                gzeof
+                0x000391c4                gzdirect
+                0x00039288                gzclose
+                0x000392f2                gzerror
+                0x0003940c                gzclearerr
+ .text          0x00039448      0x63c ../../zlib/inffast.o
+                0x00039448                inflate_fast
+ .text          0x00039a84     0x2090 ../../zlib/inflate.o
+                0x00039a84                inflateReset
+                0x00039b2e                inflatePrime
+                0x00039baa                inflateInit2_
+                0x00039cb0                inflateInit_
+                0x00039e50                inflate
+                0x0003b648                inflateEnd
+                0x0003b6aa                inflateSetDictionary
+                0x0003b790                inflateGetHeader
+                0x0003b85c                inflateSync
+                0x0003b986                inflateSyncPoint
+                0x0003b9ca                inflateCopy
+ .text          0x0003bb14      0x6cc ../../zlib/inftrees.o
+                0x0003bb14                inflate_table
+ .text          0x0003c1e0     0x3014 ../../zlib/trees.o
+                0x0003c1ee                _tr_init
+                0x0003dca8                _tr_stored_block
+                0x0003ddde                _tr_align
+                0x0003e27a                _tr_flush_block
+                0x0003e5d0                _tr_tally
+ .text          0x0003f1f4     0x26e8 ../../zlib/deflate.o
+                0x0003f1f4                deflateInit_
+                0x0003f228                deflateInit2_
+                0x0003f4dc                deflateSetDictionary
+                0x0003f642                deflateReset
+                0x0003f702                deflateSetHeader
+                0x0003f746                deflatePrime
+                0x0003f7a8                deflateParams
+                0x0003f8ec                deflateTune
+                0x0003f940                deflateBound
+                0x0003fa7a                deflate
+                0x000404b8                deflateEnd
+                0x000405ac                deflateCopy
+ .text          0x000418dc      0x9ec ../../zlib/crc32.o
+                0x000418dc                get_crc_table
+                0x000418f4                crc32
+                0x00042188                crc32_combine
+ .text          0x000422c8      0x56e ../../zlib/adler32.o
+                0x000422c8                adler32
+                0x0004274e                adler32_combine
+ *fill*         0x00042836        0x2 
+ .text          0x00042838       0xbc ../../zlib/zutil.o
+                0x00042838                zlibVersion
+                0x00042850                zlibCompileFlags
+                0x00042888                zError
+                0x000428b0                zcalloc
+                0x000428d8                zcfree
+ .text          0x000428f4       0xf8 ../../zlib/compress.o
+                0x000428f4                compress2
+                0x0004299c                compress
+                0x000429c6                compressBound
+ .text          0x000429ec      0xc50 ../../unzip/unzip.o
+                0x00042bb4                openzip
+                0x00042f14                readzip
+                0x00043194                closezip
+                0x000431e4                suspendzip
+                0x0004324c                rewindzip
+                0x00043266                seekcompresszip
+                0x000434b8                readcompresszip
+                0x00043514                readuncompresszip
+ .text          0x0004363c      0x2dc ../../unzip/unzip_stream.o
+                0x0004363c                zip2gz
+                0x000438f0                gzerror2
+ *fill*         0x00043918        0x8 
+ .text          0x00043920    0x23e0c ../../cpu/Cyclone/proj/Cyclone.o
+                0x00043920                CycloneVer
+                0x00043924                CycloneRun
+                0x000439b0                CycloneInit
+                0x00043a48                CycloneSetSr
+                0x00043a78                CycloneGetSr
+                0x00043aa8                CyclonePack
+                0x00043b00                CycloneUnpack
+                0x00043b60                CycloneFlushIrq
+                0x00043bb8                CycloneSetRealTAS
+                0x00043d2c                CycloneDoInterrupt
+                0x00044074                CycloneDoTrace
+ *fill*         0x0006772c        0x4 
+ .text          0x00067730     0x7390 ../../cpu/DrZ80/drz80.o
+                0x000678e8                DrZ80Run
+ .text          0x0006eac0      0x2b0 /usr/lib/gcc/arm-linux-gnueabihf/8/libgcc.a(_divsi3.o)
+                0x0006eac0                __divsi3
+                0x0006eac0                __aeabi_idiv
+                0x0006ed54                __aeabi_idivmod
+ .text          0x0006ed70        0xc /usr/lib/gcc/arm-linux-gnueabihf/8/libgcc.a(_dvmd_lnx.o)
+                0x0006ed70                __aeabi_idiv0
+                0x0006ed70                __aeabi_ldiv0
+ .text          0x0006ed7c       0x44 //usr/lib/arm-linux-gnueabihf/libc_nonshared.a(elf-init.oS)
+                0x0006ed7c                __libc_csu_init
+                0x0006edbc                __libc_csu_fini
+ .text          0x0006edc0        0x0 /usr/lib/gcc/arm-linux-gnueabihf/8/crtendS.o
+ .text          0x0006edc0        0x0 /usr/lib/gcc/arm-linux-gnueabihf/8/../../../arm-linux-gnueabihf/crtn.o
+ .text.__stub   0x0006edc0      0x130 linker stubs
+ *(.gnu.warning)
+ *(.glue_7t)
+ .glue_7t       0x0006eef0        0x0 linker stubs
+ *(.glue_7)
+ .glue_7        0x0006eef0        0x0 linker stubs
+ *(.vfp11_veneer)
+ .vfp11_veneer  0x0006eef0        0x0 linker stubs
+ *(.v4_bx)
+ .v4_bx         0x0006eef0        0x0 linker stubs
+
+.fini           0x0006eef0        0x8
+ *(SORT_NONE(.fini))
+ .fini          0x0006eef0        0x4 /usr/lib/gcc/arm-linux-gnueabihf/8/../../../arm-linux-gnueabihf/crti.o
+                0x0006eef0                _fini
+ .fini          0x0006eef4        0x4 /usr/lib/gcc/arm-linux-gnueabihf/8/../../../arm-linux-gnueabihf/crtn.o
+                [!provide]                PROVIDE (__etext = .)
+                [!provide]                PROVIDE (_etext = .)
+                [!provide]                PROVIDE (etext = .)
+
+.rodata         0x0006eef8     0x6f5a
+ *(.rodata .rodata.* .gnu.linkonce.r.*)
+ .rodata.cst4   0x0006eef8        0x4 /usr/lib/gcc/arm-linux-gnueabihf/8/../../../arm-linux-gnueabihf/Scrt1.o
+                0x0006eef8                _IO_stdin_used
+ .rodata        0x0006eefc      0xdf1 main.o
+ *fill*         0x0006fced        0x3 
+ .rodata        0x0006fcf0       0xdb maemo.o
+ *fill*         0x0006fdcb        0x1 
+ .rodata        0x0006fdcc      0x16c emu.o
+ .rodata        0x0006ff38      0x40a ../common/emu.o
+ *fill*         0x00070342        0x2 
+ .rodata        0x00070344      0x2d7 ../common/readpng.o
+ *fill*         0x0007061b        0x1 
+ .rodata        0x0007061c      0x10d ../common/menu.o
+ *fill*         0x00070729        0x3 
+ .rodata        0x0007072c       0x61 ../../Pico/Area.o
+ *fill*         0x0007078d        0x3 
+ .rodata        0x00070790      0x267 ../../Pico/Cart.o
+ *fill*         0x000709f7        0x1 
+ .rodata        0x000709f8       0x25 ../../Pico/Memory.o
+ *fill*         0x00070a1d        0x3 
+ .rodata        0x00070a20      0x8a8 ../../Pico/Misc.o
+                0x00070a20                hcounts_40
+                0x00070c20                hcounts_32
+                0x00070e20                vcounts
+ .rodata        0x000712c8      0x330 ../../Pico/Pico.o
+ .rodata        0x000715f8        0x9 ../../Pico/Patch.o
+ *fill*         0x00071601        0x3 
+ .rodata        0x00071604       0x2f ../../Pico/cd/cd_sys.o
+ *fill*         0x00071633        0x1 
+ .rodata        0x00071634       0xa8 ../../Pico/cd/cd_file.o
+ .rodata        0x000716dc      0x100 ../../Pico/cd/gfx_cd.o
+ .rodata        0x000717dc      0x5c2 ../../Pico/cd/Area.o
+ *fill*         0x00071d9e        0x2 
+ .rodata        0x00071da0       0x1d ../../Pico/cd/pcm.o
+ *fill*         0x00071dbd        0x3 
+ .rodata        0x00071dc0       0x3e ../../Pico/cd/buffering.o
+ *fill*         0x00071dfe        0x2 
+ .rodata        0x00071e00       0x1e ../../Pico/sound/sound.o
+ *fill*         0x00071e1e        0x2 
+ .rodata        0x00071e20      0x400 ../../Pico/sound/ym2612.o
+ .rodata        0x00072220       0x37 ../../zlib/gzio.o
+ *fill*         0x00072257        0x1 
+ .rodata        0x00072258       0x54 ../../zlib/inffast.o
+ .rodata        0x000722ac      0xa66 ../../zlib/inflate.o
+ *fill*         0x00072d12        0x2 
+ .rodata        0x00072d14      0x130 ../../zlib/inftrees.o
+                0x00072d14                inflate_copyright
+ .rodata        0x00072e44      0xa30 ../../zlib/trees.o
+                0x00073488                _dist_code
+                0x00073688                _length_code
+ .rodata        0x00073874       0x3e ../../zlib/deflate.o
+                0x00073874                deflate_copyright
+ *fill*         0x000738b2        0x2 
+ .rodata        0x000738b4     0x2000 ../../zlib/crc32.o
+ .rodata        0x000758b4       0x8a ../../zlib/zutil.o
+ *fill*         0x0007593e        0x2 
+ .rodata        0x00075940        0x6 ../../zlib/compress.o
+ *fill*         0x00075946        0x2 
+ .rodata        0x00075948      0x407 ../../unzip/unzip.o
+ *fill*         0x00075d4f        0x1 
+ .rodata        0x00075d50      0x102 ../../unzip/unzip_stream.o
+
+.rodata1
+ *(.rodata1)
+
+.ARM.extab      0x00075e52        0x0
+ *(.ARM.extab* .gnu.linkonce.armextab.*)
+ .ARM.extab     0x00075e52        0x0 /usr/lib/gcc/arm-linux-gnueabihf/8/../../../arm-linux-gnueabihf/Scrt1.o
+                [!provide]                PROVIDE (__exidx_start = .)
+
+.ARM.exidx      0x00075e54        0x8
+ *(.ARM.exidx* .gnu.linkonce.armexidx.*)
+ .ARM.exidx     0x00075e54        0x8 /usr/lib/gcc/arm-linux-gnueabihf/8/../../../arm-linux-gnueabihf/Scrt1.o
+                [!provide]                PROVIDE (__exidx_end = .)
+
+.eh_frame_hdr
+ *(.eh_frame_hdr)
+ *(.eh_frame_entry .eh_frame_entry.*)
+
+.eh_frame       0x00075e5c        0x4
+ *(.eh_frame)
+ .eh_frame      0x00075e5c        0x4 /usr/lib/gcc/arm-linux-gnueabihf/8/crtendS.o
+ *(.eh_frame.*)
+
+.gcc_except_table
+ *(.gcc_except_table .gcc_except_table.*)
+
+.gnu_extab
+ *(.gnu_extab*)
+
+.exception_ranges
+ *(.exception_ranges .exception_ranges*)
+                0x00086db8                . = DATA_SEGMENT_ALIGN (CONSTANT (MAXPAGESIZE), CONSTANT (COMMONPAGESIZE))
+
+.eh_frame
+ *(.eh_frame)
+ *(.eh_frame.*)
+
+.gnu_extab
+ *(.gnu_extab)
+
+.gcc_except_table
+ *(.gcc_except_table .gcc_except_table.*)
+
+.exception_ranges
+ *(.exception_ranges .exception_ranges*)
+
+.tdata          0x00086db8        0x0
+                [!provide]                PROVIDE (__tdata_start = .)
+ *(.tdata .tdata.* .gnu.linkonce.td.*)
+
+.tbss
+ *(.tbss .tbss.* .gnu.linkonce.tb.*)
+ *(.tcommon)
+
+.preinit_array  0x00086db8        0x0
+                [!provide]                PROVIDE (__preinit_array_start = .)
+ *(.preinit_array)
+                [!provide]                PROVIDE (__preinit_array_end = .)
+
+.init_array     0x00086db8        0x4
+                0x00086db8                PROVIDE (__init_array_start = .)
+ *(SORT_BY_INIT_PRIORITY(.init_array.*) SORT_BY_INIT_PRIORITY(.ctors.*))
+ *(.init_array EXCLUDE_FILE(*crtend?.o *crtend.o *crtbegin?.o *crtbegin.o) .ctors)
+ .init_array    0x00086db8        0x4 /usr/lib/gcc/arm-linux-gnueabihf/8/crtbeginS.o
+                0x00086dbc                PROVIDE (__init_array_end = .)
+
+.fini_array     0x00086dbc        0x4
+                [!provide]                PROVIDE (__fini_array_start = .)
+ *(SORT_BY_INIT_PRIORITY(.fini_array.*) SORT_BY_INIT_PRIORITY(.dtors.*))
+ *(.fini_array EXCLUDE_FILE(*crtend?.o *crtend.o *crtbegin?.o *crtbegin.o) .dtors)
+ .fini_array    0x00086dbc        0x4 /usr/lib/gcc/arm-linux-gnueabihf/8/crtbeginS.o
+                [!provide]                PROVIDE (__fini_array_end = .)
+
+.ctors
+ *crtbegin.o(.ctors)
+ *crtbegin?.o(.ctors)
+ *(EXCLUDE_FILE(*crtend?.o *crtend.o) .ctors)
+ *(SORT_BY_NAME(.ctors.*))
+ *(.ctors)
+
+.dtors
+ *crtbegin.o(.dtors)
+ *crtbegin?.o(.dtors)
+ *(EXCLUDE_FILE(*crtend?.o *crtend.o) .dtors)
+ *(SORT_BY_NAME(.dtors.*))
+ *(.dtors)
+
+.jcr
+ *(.jcr)
+
+.data.rel.ro    0x00086dc0       0xa0
+ *(.data.rel.ro.local* .gnu.linkonce.d.rel.ro.local.*)
+ .data.rel.ro.local
+                0x00086dc0       0x78 ../../zlib/deflate.o
+ .data.rel.ro.local
+                0x00086e38       0x28 ../../zlib/zutil.o
+                0x00086e38                z_errmsg
+ *(.data.rel.ro .data.rel.ro.* .gnu.linkonce.d.rel.ro.*)
+ .data.rel.ro   0x00086e60        0x0 /usr/lib/gcc/arm-linux-gnueabihf/8/../../../arm-linux-gnueabihf/Scrt1.o
+
+.dynamic        0x00086e60      0x1a0
+ *(.dynamic)
+ .dynamic       0x00086e60      0x1a0 /usr/lib/gcc/arm-linux-gnueabihf/8/../../../arm-linux-gnueabihf/Scrt1.o
+                0x00086e60                _DYNAMIC
+                0x00087000                . = DATA_SEGMENT_RELRO_END (., 0x0)
+
+.got            0x00087000      0x3cc
+ *(.got.plt)
+ .got.plt       0x00087000      0x1f8 /usr/lib/gcc/arm-linux-gnueabihf/8/../../../arm-linux-gnueabihf/Scrt1.o
+                0x00087000                _GLOBAL_OFFSET_TABLE_
+ *(.igot.plt)
+ .igot.plt      0x000871f8        0x0 /usr/lib/gcc/arm-linux-gnueabihf/8/../../../arm-linux-gnueabihf/Scrt1.o
+ *(.got)
+ .got           0x000871f8      0x1d4 /usr/lib/gcc/arm-linux-gnueabihf/8/../../../arm-linux-gnueabihf/Scrt1.o
+ *(.igot)
+
+.data           0x000873d0    0x43640
+                [!provide]                PROVIDE (__data_start = .)
+ *(.data .data.* .gnu.linkonce.d.*)
+ .data          0x000873d0        0x4 /usr/lib/gcc/arm-linux-gnueabihf/8/../../../arm-linux-gnueabihf/Scrt1.o
+                0x000873d0                __data_start
+                0x000873d0                data_start
+ .data          0x000873d4        0x0 /usr/lib/gcc/arm-linux-gnueabihf/8/../../../arm-linux-gnueabihf/crti.o
+ .data          0x000873d4        0x0 /usr/lib/gcc/arm-linux-gnueabihf/8/crtbeginS.o
+ .data.rel.local
+                0x000873d4        0x4 /usr/lib/gcc/arm-linux-gnueabihf/8/crtbeginS.o
+                0x000873d4                __dso_handle
+ .data          0x000873d8        0x0 main.o
+ .data          0x000873d8        0x0 maemo.o
+ .data          0x000873d8        0x0 emu.o
+ .data          0x000873d8        0x0 ../common/emu.o
+ .data.rel.local
+                0x000873d8       0x24 ../common/emu.o
+                0x000873d8                PicoConfigFile
+                0x000873dc                biosfiles_us
+                0x000873e8                biosfiles_eu
+                0x000873f4                biosfiles_jp
+ .data          0x000873fc      0xc00 ../common/fonts.o
+                0x000873fc                fontdata8x8
+                0x000877fc                fontdata6x8
+ .data          0x00087ffc        0x0 ../common/arm_utils.o
+ .data          0x00087ffc        0x0 ../common/readpng.o
+ .data          0x00087ffc        0x8 ../common/menu.o
+ .data          0x00088004        0x0 ../../Pico/Area.o
+ .data          0x00088004        0x0 ../../Pico/Cart.o
+ .data.rel.local
+                0x00088004       0x20 ../../Pico/Cart.o
+ .data          0x00088024        0x0 ../../Pico/Memory.o
+ .data          0x00088024        0x4 ../../Pico/Misc.o
+                0x00088024                lastSSRamWrite
+ .data          0x00088028        0x4 ../../Pico/Pico.o
+                0x00088028                PicoVer
+ .data          0x0008802c        0x0 ../../Pico/Sek.o
+ .data          0x0008802c        0x0 ../../Pico/VideoPort.o
+ .data          0x0008802c        0x0 ../../Pico/Draw2.o
+ .data.rel      0x0008802c        0x4 ../../Pico/Draw2.o
+                0x0008802c                PicoCramHigh
+ .data          0x00088030        0x0 ../../Pico/Draw.o
+ .data.rel      0x00088030        0x8 ../../Pico/Draw.o
+                0x00088030                DrawLineDest
+ .data          0x00088038       0x65 ../../Pico/Patch.o
+ .data          0x0008809d        0x0 ../../Pico/cd/Pico.o
+ .data          0x0008809d        0x0 ../../Pico/cd/Memory.o
+ .data          0x0008809d        0x0 ../../Pico/cd/Sek.o
+ .data          0x0008809d        0x0 ../../Pico/cd/LC89510.o
+ .data          0x0008809d        0x0 ../../Pico/cd/cd_sys.o
+ .data          0x0008809d        0x0 ../../Pico/cd/cd_file.o
+ *fill*         0x0008809d        0x3 
+ .data.rel.local
+                0x000880a0       0x3c ../../Pico/cd/cd_file.o
+ .data          0x000880dc        0x0 ../../Pico/cd/gfx_cd.o
+ .data          0x000880dc        0x0 ../../Pico/cd/Area.o
+ .data.rel.local
+                0x000880dc       0x60 ../../Pico/cd/Area.o
+ .data          0x0008813c       0x40 ../../Pico/cd/Misc.o
+                0x0008813c                formatted_bram
+ .data          0x0008817c        0x0 ../../Pico/cd/pcm.o
+ .data          0x0008817c        0x4 ../../Pico/cd/buffering.o
+ .data          0x00088180        0x0 ../../Pico/draw_asm.o
+ .data          0x00088180        0x0 ../../Pico/draw2_asm.o
+ .data          0x00088180        0x0 ../../Pico/memory_asm.o
+ .data          0x00088180        0x0 ../../Pico/sound/ym2612_asm.o
+ .data          0x00088180        0x0 ../../Pico/misc_asm.o
+ .data          0x00088180        0x0 ../../Pico/cd/misc_asm.o
+ .data          0x00088180        0x0 ../../Pico/cd/pico_asm.o
+ .data          0x00088180      0xd08 ../../Pico/cd/memory_asm.o
+ .data          0x00088e88        0x0 ../../Pico/sound/sound.o
+ .data.rel      0x00088e88        0x4 ../../Pico/sound/sound.o
+                0x00088e88                PsndMix_32_to_16l
+ *fill*         0x00088e8c        0x4 
+ .data          0x00088e90        0x4 ../../Pico/sound/mix_asm.o
+                0x00088e90                mix_32_to_16l_level
+ .data          0x00088e94        0x0 ../../Pico/sound/sn76496.o
+ .data          0x00088e94        0x0 ../../Pico/sound/ym2612.o
+ .data          0x00088e94        0x0 ../../zlib/gzio.o
+ .data          0x00088e94        0x0 ../../zlib/inffast.o
+ .data          0x00088e94        0x0 ../../zlib/inflate.o
+ .data          0x00088e94        0x0 ../../zlib/inftrees.o
+ .data          0x00088e94        0x0 ../../zlib/trees.o
+ .data.rel.local
+                0x00088e94       0x3c ../../zlib/trees.o
+ .data          0x00088ed0        0x0 ../../zlib/deflate.o
+ .data          0x00088ed0        0x0 ../../zlib/crc32.o
+ .data          0x00088ed0        0x0 ../../zlib/adler32.o
+ .data          0x00088ed0        0x0 ../../zlib/zutil.o
+ .data          0x00088ed0        0x0 ../../zlib/compress.o
+ .data          0x00088ed0        0x4 ../../unzip/unzip.o
+ .data          0x00088ed4        0x0 ../../unzip/unzip_stream.o
+ *fill*         0x00088ed4        0xc 
+ .data          0x00088ee0    0x40020 ../../cpu/Cyclone/proj/Cyclone.o
+                0x00088ee0                CycloneJumpTab
+ .data          0x000c8f00     0x1b10 ../../cpu/DrZ80/drz80.o
+                0x000c8f00                DrZ80Ver
+ .data          0x000caa10        0x0 /usr/lib/gcc/arm-linux-gnueabihf/8/libgcc.a(_divsi3.o)
+ .data          0x000caa10        0x0 /usr/lib/gcc/arm-linux-gnueabihf/8/libgcc.a(_dvmd_lnx.o)
+ .data          0x000caa10        0x0 //usr/lib/arm-linux-gnueabihf/libc_nonshared.a(elf-init.oS)
+ .data          0x000caa10        0x0 /usr/lib/gcc/arm-linux-gnueabihf/8/crtendS.o
+ .data          0x000caa10        0x0 /usr/lib/gcc/arm-linux-gnueabihf/8/../../../arm-linux-gnueabihf/crtn.o
+
+.tm_clone_table
+                0x000caa10        0x0
+ .tm_clone_table
+                0x000caa10        0x0 /usr/lib/gcc/arm-linux-gnueabihf/8/crtbeginS.o
+ .tm_clone_table
+                0x000caa10        0x0 /usr/lib/gcc/arm-linux-gnueabihf/8/crtendS.o
+
+.data1
+ *(.data1)
+                0x000caa10                _edata = .
+                [!provide]                PROVIDE (edata = .)
+                0x000caa10                . = .
+                0x000caa10                __bss_start = .
+                0x000caa10                __bss_start__ = .
+
+.bss            0x000caa40   0x287fbc
+ *(.dynbss)
+ .dynbss        0x000caa40        0x0 /usr/lib/gcc/arm-linux-gnueabihf/8/../../../arm-linux-gnueabihf/Scrt1.o
+ *(.bss .bss.* .gnu.linkonce.b.*)
+ .bss           0x000caa40        0x0 /usr/lib/gcc/arm-linux-gnueabihf/8/../../../arm-linux-gnueabihf/Scrt1.o
+ .bss           0x000caa40        0x0 /usr/lib/gcc/arm-linux-gnueabihf/8/../../../arm-linux-gnueabihf/crti.o
+ .bss           0x000caa40        0x1 /usr/lib/gcc/arm-linux-gnueabihf/8/crtbeginS.o
+ *fill*         0x000caa41        0x3 
+ .bss           0x000caa44       0x15 main.o
+                0x000caa44                use_gui
+                0x000caa48                osso
+                0x000caa4c                g_context
+                0x000caa50                g_loop
+ *fill*         0x000caa59        0x7 
+ .bss           0x000caa60   0x200040 maemo.o
+                0x000caa60                ext_menu
+                0x000caa64                ext_state
+ .bss           0x002caaa0      0xe10 emu.o
+                0x002caaa0                select_exits
+                0x002caaa4                PicoDraw2FB
+                0x002caaa8                reset_timing
+ .bss           0x002cb8b0      0x618 ../common/emu.o
+                0x002cb8b0                rom_data
+                0x002cb8b4                state_slot
+                0x002cb8b8                config_slot
+                0x002cb8bc                config_slot_current
+                0x002cb8c0                movie_data
+ .bss           0x002cbec8        0x0 ../common/fonts.o
+ .bss           0x002cbec8        0x0 ../common/arm_utils.o
+ .bss           0x002cbec8        0x0 ../common/readpng.o
+ .bss           0x002cbec8     0x2840 ../common/menu.o
+                0x002cbec8                menuErrorMsg
+ .bss           0x002ce708       0x14 ../../Pico/Area.o
+                0x002ce708                areaRead
+                0x002ce70c                areaWrite
+                0x002ce710                areaEof
+                0x002ce714                areaSeek
+                0x002ce718                areaClose
+ .bss           0x002ce71c        0x8 ../../Pico/Cart.o
+                0x002ce71c                PicoCartLoadProgressCB
+                0x002ce720                PicoCDLoadProgressCB
+ .bss           0x002ce724        0x1 ../../Pico/Memory.o
+ .bss           0x002ce725        0x0 ../../Pico/Misc.o
+ *fill*         0x002ce725        0x3 
+ .bss           0x002ce728      0x438 ../../Pico/Pico.o
+                0x002ce728                PicoOpt
+                0x002ce72c                PicoSkipFrame
+                0x002ce730                PicoRegionOverride
+                0x002ce734                PicoAutoRgnOrder
+                0x002ce738                emustatus
+                0x002ce73c                PicoWriteSound
+                0x002ce740                SRam
+                0x002ce754                PicoMCD
+                0x002ce758                PicoMessage
+ .bss           0x002ceb60        0xc ../../Pico/Sek.o
+                0x002ceb60                SekCycleCnt
+                0x002ceb64                SekCycleAim
+                0x002ceb68                SekCycleCntT
+ .bss           0x002ceb6c        0x0 ../../Pico/VideoPort.o
+ .bss           0x002ceb6c     0x2540 ../../Pico/Draw2.o
+                0x002ceb6c                currpri
+                0x002ceb70                PicoPrepareCram
+ .bss           0x002d10ac      0x52c ../../Pico/Draw.o
+                0x002d10ac                PicoScan
+                0x002d10b0                Scanline
+ .bss           0x002d15d8        0x8 ../../Pico/Patch.o
+                0x002d15d8                PicoPatches
+                0x002d15dc                PicoPatchCount
+ .bss           0x002d15e0        0x8 ../../Pico/cd/Pico.o
+                0x002d15e0                PicoMCDopenTray
+                0x002d15e4                PicoMCDcloseTray
+ .bss           0x002d15e8        0x0 ../../Pico/cd/Memory.o
+ .bss           0x002d15e8        0x8 ../../Pico/cd/Sek.o
+                0x002d15e8                SekCycleCntS68k
+                0x002d15ec                SekCycleAimS68k
+ .bss           0x002d15f0        0x0 ../../Pico/cd/LC89510.o
+ .bss           0x002d15f0        0x4 ../../Pico/cd/cd_sys.o
+ .bss           0x002d15f4        0x0 ../../Pico/cd/cd_file.o
+ .bss           0x002d15f4        0x0 ../../Pico/cd/gfx_cd.o
+ .bss           0x002d15f4        0x8 ../../Pico/cd/Area.o
+                0x002d15f4                PicoStateProgressCB
+ .bss           0x002d15fc        0x0 ../../Pico/cd/Misc.o
+ .bss           0x002d15fc        0x4 ../../Pico/cd/pcm.o
+ .bss           0x002d1600       0x10 ../../Pico/cd/buffering.o
+                0x002d1600                PicoCDBuffers
+ .bss           0x002d1610        0x0 ../../Pico/draw_asm.o
+ .bss           0x002d1610        0x0 ../../Pico/draw2_asm.o
+ .bss           0x002d1610      0x180 ../../Pico/memory_asm.o
+ .bss           0x002d1790        0x0 ../../Pico/sound/ym2612_asm.o
+ .bss           0x002d1790        0x0 ../../Pico/misc_asm.o
+ .bss           0x002d1790        0x0 ../../Pico/cd/misc_asm.o
+ .bss           0x002d1790        0x0 ../../Pico/cd/pico_asm.o
+ .bss           0x002d1790        0x0 ../../Pico/cd/memory_asm.o
+ .bss           0x002d1790     0x1e14 ../../Pico/sound/sound.o
+                0x002d1790                PsndRate
+                0x002d1794                PsndLen
+                0x002d1798                PsndLen_exc_add
+                0x002d179c                PsndLen_exc_cnt
+                0x002d17a0                PsndOut
+ .bss           0x002d35a4        0x0 ../../Pico/sound/mix_asm.o
+ .bss           0x002d35a4       0xb8 ../../Pico/sound/sn76496.o
+ *fill*         0x002d365c       0x24 
+ .bss           0x002d3680    0x24e58 ../../Pico/sound/ym2612.o
+ .bss           0x002f84d8        0x0 ../../zlib/gzio.o
+ .bss           0x002f84d8        0x0 ../../zlib/inffast.o
+ .bss           0x002f84d8        0x0 ../../zlib/inflate.o
+ .bss           0x002f84d8        0x0 ../../zlib/inftrees.o
+ .bss           0x002f84d8        0x0 ../../zlib/trees.o
+ .bss           0x002f84d8        0x0 ../../zlib/deflate.o
+ .bss           0x002f84d8        0x0 ../../zlib/crc32.o
+ .bss           0x002f84d8        0x0 ../../zlib/adler32.o
+ .bss           0x002f84d8        0x0 ../../zlib/zutil.o
+ .bss           0x002f84d8        0x0 ../../zlib/compress.o
+ .bss           0x002f84d8        0x0 ../../unzip/unzip.o
+ .bss           0x002f84d8        0x0 ../../unzip/unzip_stream.o
+ .bss           0x002f84d8        0x0 ../../cpu/Cyclone/proj/Cyclone.o
+ .bss           0x002f84d8        0x0 ../../cpu/DrZ80/drz80.o
+ .bss           0x002f84d8        0x0 /usr/lib/gcc/arm-linux-gnueabihf/8/libgcc.a(_divsi3.o)
+ .bss           0x002f84d8        0x0 /usr/lib/gcc/arm-linux-gnueabihf/8/libgcc.a(_dvmd_lnx.o)
+ .bss           0x002f84d8        0x0 //usr/lib/arm-linux-gnueabihf/libc_nonshared.a(elf-init.oS)
+ .bss           0x002f84d8        0x0 /usr/lib/gcc/arm-linux-gnueabihf/8/crtendS.o
+ .bss           0x002f84d8        0x0 /usr/lib/gcc/arm-linux-gnueabihf/8/../../../arm-linux-gnueabihf/crtn.o
+ *(COMMON)
+ COMMON         0x002f84d8        0x4 main.o
+                0x002f84d8                g_argv
+ COMMON         0x002f84dc        0x8 maemo.o
+                0x002f84dc                quickSlot
+                0x002f84e0                md_screen
+ COMMON         0x002f84e4     0x1444 emu.o
+                0x002f84e4                localPal
+                0x002f88e4                romFileName
+                0x002f98e4                engineState
+                0x002f98e8                noticeMsg
+ COMMON         0x002f9928      0x8c4 ../common/emu.o
+                0x002f9928                currentConfig
+ COMMON         0x002fa1ec    0x22278 ../../Pico/Pico.o
+                0x002fa1ec                z80startCycle
+                0x002fa1f0                z80stopCycle
+                0x002fa1f4                Pico
+                0x0031c45c                PicoPad
+ COMMON         0x0031c464       0xb0 ../../Pico/Sek.o
+                0x0031c464                PicoCpuCM68k
+ COMMON         0x0031c514      0x9a4 ../../Pico/Draw.o
+                0x0031c514                HighCol
+                0x0031c664                HighPal
+                0x0031c864                HighSprZ
+                0x0031c9b4                rendstatus
+                0x0031c9b8                DefOutBuff
+ COMMON         0x0031ceb8        0x8 ../../Pico/cd/Memory.o
+                0x0031ceb8                s68k_poll_adclk
+                0x0031cebc                s68k_poll_cnt
+ COMMON         0x0031cec0       0xb0 ../../Pico/cd/Sek.o
+                0x0031cec0                PicoCpuCS68k
+ COMMON         0x0031cf70       0x7c ../../Pico/sound/sound.o
+                0x0031cf70                drZ80
+ COMMON         0x0031cfec        0x4 ../../Pico/sound/sn76496.o
+                0x0031cfec                sn76496_regs
+ COMMON         0x0031cff0    0x35a0c ../../Pico/sound/ym2612.o
+                0x0031cff0                ym_tl_tab
+                0x00350ff0                ym_tl_tab2
+                0x003529f0                ym2612_dacout
+                0x003529f4                ym2612_dacen
+                0x003529f8                ym2612_st
+                0x003529fc                . = ALIGN ((. != 0x0)?0x4:0x1)
+                0x003529fc                _bss_end__ = .
+                0x003529fc                __bss_end__ = .
+                0x003529fc                . = ALIGN (0x4)
+                0x003529fc                . = SEGMENT_START ("ldata-segment", .)
+                0x003529fc                . = ALIGN (0x4)
+                0x003529fc                __end__ = .
+                0x003529fc                _end = .
+                [!provide]                PROVIDE (end = .)
+                0x003529fc                . = DATA_SEGMENT_END (.)
+
+.stab
+ *(.stab)
+
+.stabstr
+ *(.stabstr)
+
+.stab.excl
+ *(.stab.excl)
+
+.stab.exclstr
+ *(.stab.exclstr)
+
+.stab.index
+ *(.stab.index)
+
+.stab.indexstr
+ *(.stab.indexstr)
+
+.comment        0x00000000       0x1c
+ *(.comment)
+ .comment       0x00000000       0x1c /usr/lib/gcc/arm-linux-gnueabihf/8/crtbeginS.o
+                                 0x1d (size before relaxing)
+ .comment       0x0000001c       0x1d main.o
+ .comment       0x0000001c       0x1d maemo.o
+ .comment       0x0000001c       0x1d emu.o
+ .comment       0x0000001c       0x1d ../common/emu.o
+ .comment       0x0000001c       0x1d ../common/fonts.o
+ .comment       0x0000001c       0x1d ../common/readpng.o
+ .comment       0x0000001c       0x1d ../common/menu.o
+ .comment       0x0000001c       0x1d ../../Pico/Area.o
+ .comment       0x0000001c       0x1d ../../Pico/Cart.o
+ .comment       0x0000001c       0x1d ../../Pico/Memory.o
+ .comment       0x0000001c       0x1d ../../Pico/Misc.o
+ .comment       0x0000001c       0x1d ../../Pico/Pico.o
+ .comment       0x0000001c       0x1d ../../Pico/Sek.o
+ .comment       0x0000001c       0x1d ../../Pico/VideoPort.o
+ .comment       0x0000001c       0x1d ../../Pico/Draw2.o
+ .comment       0x0000001c       0x1d ../../Pico/Draw.o
+ .comment       0x0000001c       0x1d ../../Pico/Patch.o
+ .comment       0x0000001c       0x1d ../../Pico/cd/Pico.o
+ .comment       0x0000001c       0x1d ../../Pico/cd/Memory.o
+ .comment       0x0000001c       0x1d ../../Pico/cd/Sek.o
+ .comment       0x0000001c       0x1d ../../Pico/cd/LC89510.o
+ .comment       0x0000001c       0x1d ../../Pico/cd/cd_sys.o
+ .comment       0x0000001c       0x1d ../../Pico/cd/cd_file.o
+ .comment       0x0000001c       0x1d ../../Pico/cd/gfx_cd.o
+ .comment       0x0000001c       0x1d ../../Pico/cd/Area.o
+ .comment       0x0000001c       0x1d ../../Pico/cd/Misc.o
+ .comment       0x0000001c       0x1d ../../Pico/cd/pcm.o
+ .comment       0x0000001c       0x1d ../../Pico/cd/buffering.o
+ .comment       0x0000001c       0x1d ../../Pico/sound/sound.o
+ .comment       0x0000001c       0x1d ../../Pico/sound/sn76496.o
+ .comment       0x0000001c       0x1d ../../Pico/sound/ym2612.o
+ .comment       0x0000001c       0x1d ../../zlib/gzio.o
+ .comment       0x0000001c       0x1d ../../zlib/inffast.o
+ .comment       0x0000001c       0x1d ../../zlib/inflate.o
+ .comment       0x0000001c       0x1d ../../zlib/inftrees.o
+ .comment       0x0000001c       0x1d ../../zlib/trees.o
+ .comment       0x0000001c       0x1d ../../zlib/deflate.o
+ .comment       0x0000001c       0x1d ../../zlib/crc32.o
+ .comment       0x0000001c       0x1d ../../zlib/adler32.o
+ .comment       0x0000001c       0x1d ../../zlib/zutil.o
+ .comment       0x0000001c       0x1d ../../zlib/compress.o
+ .comment       0x0000001c       0x1d ../../unzip/unzip.o
+ .comment       0x0000001c       0x1d ../../unzip/unzip_stream.o
+ .comment       0x0000001c       0x1d /usr/lib/gcc/arm-linux-gnueabihf/8/crtendS.o
+
+.ARM.attributes
+                0x00000000       0x33
+ .ARM.attributes
+                0x00000000       0x33 /usr/lib/gcc/arm-linux-gnueabihf/8/../../../arm-linux-gnueabihf/Scrt1.o
+ .ARM.attributes
+                0x00000033       0x27 /usr/lib/gcc/arm-linux-gnueabihf/8/../../../arm-linux-gnueabihf/crti.o
+ .ARM.attributes
+                0x0000005a       0x33 /usr/lib/gcc/arm-linux-gnueabihf/8/crtbeginS.o
+ .ARM.attributes
+                0x0000008d       0x35 main.o
+ .ARM.attributes
+                0x000000c2       0x35 maemo.o
+ .ARM.attributes
+                0x000000f7       0x35 emu.o
+ .ARM.attributes
+                0x0000012c       0x35 ../common/emu.o
+ .ARM.attributes
+                0x00000161       0x3b ../common/fonts.o
+ .ARM.attributes
+                0x0000019c       0x21 ../common/arm_utils.o
+ .ARM.attributes
+                0x000001bd       0x35 ../common/readpng.o
+ .ARM.attributes
+                0x000001f2       0x35 ../common/menu.o
+ .ARM.attributes
+                0x00000227       0x35 ../../Pico/Area.o
+ .ARM.attributes
+                0x0000025c       0x35 ../../Pico/Cart.o
+ .ARM.attributes
+                0x00000291       0x35 ../../Pico/Memory.o
+ .ARM.attributes
+                0x000002c6       0x35 ../../Pico/Misc.o
+ .ARM.attributes
+                0x000002fb       0x35 ../../Pico/Pico.o
+ .ARM.attributes
+                0x00000330       0x35 ../../Pico/Sek.o
+ .ARM.attributes
+                0x00000365       0x35 ../../Pico/VideoPort.o
+ .ARM.attributes
+                0x0000039a       0x35 ../../Pico/Draw2.o
+ .ARM.attributes
+                0x000003cf       0x35 ../../Pico/Draw.o
+ .ARM.attributes
+                0x00000404       0x35 ../../Pico/Patch.o
+ .ARM.attributes
+                0x00000439       0x35 ../../Pico/cd/Pico.o
+ .ARM.attributes
+                0x0000046e       0x35 ../../Pico/cd/Memory.o
+ .ARM.attributes
+                0x000004a3       0x35 ../../Pico/cd/Sek.o
+ .ARM.attributes
+                0x000004d8       0x35 ../../Pico/cd/LC89510.o
+ .ARM.attributes
+                0x0000050d       0x35 ../../Pico/cd/cd_sys.o
+ .ARM.attributes
+                0x00000542       0x35 ../../Pico/cd/cd_file.o
+ .ARM.attributes
+                0x00000577       0x35 ../../Pico/cd/gfx_cd.o
+ .ARM.attributes
+                0x000005ac       0x35 ../../Pico/cd/Area.o
+ .ARM.attributes
+                0x000005e1       0x3b ../../Pico/cd/Misc.o
+ .ARM.attributes
+                0x0000061c       0x35 ../../Pico/cd/pcm.o
+ .ARM.attributes
+                0x00000651       0x35 ../../Pico/cd/buffering.o
+ .ARM.attributes
+                0x00000686       0x25 ../../Pico/draw_asm.o
+ .ARM.attributes
+                0x000006ab       0x25 ../../Pico/draw2_asm.o
+ .ARM.attributes
+                0x000006d0       0x25 ../../Pico/memory_asm.o
+ .ARM.attributes
+                0x000006f5       0x25 ../../Pico/sound/ym2612_asm.o
+ .ARM.attributes
+                0x0000071a       0x25 ../../Pico/misc_asm.o
+ .ARM.attributes
+                0x0000073f       0x25 ../../Pico/cd/misc_asm.o
+ .ARM.attributes
+                0x00000764       0x25 ../../Pico/cd/pico_asm.o
+ .ARM.attributes
+                0x00000789       0x25 ../../Pico/cd/memory_asm.o
+ .ARM.attributes
+                0x000007ae       0x35 ../../Pico/sound/sound.o
+ .ARM.attributes
+                0x000007e3       0x25 ../../Pico/sound/mix_asm.o
+ .ARM.attributes
+                0x00000808       0x35 ../../Pico/sound/sn76496.o
+ .ARM.attributes
+                0x0000083d       0x35 ../../Pico/sound/ym2612.o
+ .ARM.attributes
+                0x00000872       0x35 ../../zlib/gzio.o
+ .ARM.attributes
+                0x000008a7       0x35 ../../zlib/inffast.o
+ .ARM.attributes
+                0x000008dc       0x35 ../../zlib/inflate.o
+ .ARM.attributes
+                0x00000911       0x35 ../../zlib/inftrees.o
+ .ARM.attributes
+                0x00000946       0x35 ../../zlib/trees.o
+ .ARM.attributes
+                0x0000097b       0x35 ../../zlib/deflate.o
+ .ARM.attributes
+                0x000009b0       0x35 ../../zlib/crc32.o
+ .ARM.attributes
+                0x000009e5       0x35 ../../zlib/adler32.o
+ .ARM.attributes
+                0x00000a1a       0x35 ../../zlib/zutil.o
+ .ARM.attributes
+                0x00000a4f       0x35 ../../zlib/compress.o
+ .ARM.attributes
+                0x00000a84       0x35 ../../unzip/unzip.o
+ .ARM.attributes
+                0x00000ab9       0x35 ../../unzip/unzip_stream.o
+ .ARM.attributes
+                0x00000aee       0x21 ../../cpu/Cyclone/proj/Cyclone.o
+ .ARM.attributes
+                0x00000b0f       0x21 ../../cpu/DrZ80/drz80.o
+ .ARM.attributes
+                0x00000b30       0x21 /usr/lib/gcc/arm-linux-gnueabihf/8/libgcc.a(_divsi3.o)
+ .ARM.attributes
+                0x00000b51       0x21 /usr/lib/gcc/arm-linux-gnueabihf/8/libgcc.a(_dvmd_lnx.o)
+ .ARM.attributes
+                0x00000b72       0x35 //usr/lib/arm-linux-gnueabihf/libc_nonshared.a(elf-init.oS)
+ .ARM.attributes
+                0x00000ba7       0x33 /usr/lib/gcc/arm-linux-gnueabihf/8/crtendS.o
+ .ARM.attributes
+                0x00000bda       0x27 /usr/lib/gcc/arm-linux-gnueabihf/8/../../../arm-linux-gnueabihf/crtn.o
+
+.debug
+ *(.debug)
+
+.line
+ *(.line)
+
+.debug_srcinfo
+ *(.debug_srcinfo)
+
+.debug_sfnames
+ *(.debug_sfnames)
+
+.debug_aranges  0x00000000      0x5b0
+ *(.debug_aranges)
+ .debug_aranges
+                0x00000000       0x20 main.o
+ .debug_aranges
+                0x00000020       0x20 maemo.o
+ .debug_aranges
+                0x00000040       0x20 emu.o
+ .debug_aranges
+                0x00000060       0x20 ../common/emu.o
+ .debug_aranges
+                0x00000080       0x18 ../common/fonts.o
+ .debug_aranges
+                0x00000098       0x20 ../common/arm_utils.o
+ .debug_aranges
+                0x000000b8       0x20 ../common/readpng.o
+ .debug_aranges
+                0x000000d8       0x20 ../common/menu.o
+ .debug_aranges
+                0x000000f8       0x20 ../../Pico/Area.o
+ .debug_aranges
+                0x00000118       0x20 ../../Pico/Cart.o
+ .debug_aranges
+                0x00000138       0x20 ../../Pico/Memory.o
+ .debug_aranges
+                0x00000158       0x20 ../../Pico/Misc.o
+ .debug_aranges
+                0x00000178       0x20 ../../Pico/Pico.o
+ .debug_aranges
+                0x00000198       0x20 ../../Pico/Sek.o
+ .debug_aranges
+                0x000001b8       0x20 ../../Pico/VideoPort.o
+ .debug_aranges
+                0x000001d8       0x20 ../../Pico/Draw2.o
+ .debug_aranges
+                0x000001f8       0x20 ../../Pico/Draw.o
+ .debug_aranges
+                0x00000218       0x20 ../../Pico/Patch.o
+ .debug_aranges
+                0x00000238       0x20 ../../Pico/cd/Pico.o
+ .debug_aranges
+                0x00000258       0x20 ../../Pico/cd/Memory.o
+ .debug_aranges
+                0x00000278       0x20 ../../Pico/cd/Sek.o
+ .debug_aranges
+                0x00000298       0x20 ../../Pico/cd/LC89510.o
+ .debug_aranges
+                0x000002b8       0x20 ../../Pico/cd/cd_sys.o
+ .debug_aranges
+                0x000002d8       0x20 ../../Pico/cd/cd_file.o
+ .debug_aranges
+                0x000002f8       0x20 ../../Pico/cd/gfx_cd.o
+ .debug_aranges
+                0x00000318       0x20 ../../Pico/cd/Area.o
+ .debug_aranges
+                0x00000338       0x18 ../../Pico/cd/Misc.o
+ .debug_aranges
+                0x00000350       0x20 ../../Pico/cd/pcm.o
+ .debug_aranges
+                0x00000370       0x20 ../../Pico/cd/buffering.o
+ .debug_aranges
+                0x00000390       0x20 ../../Pico/sound/sound.o
+ .debug_aranges
+                0x000003b0       0x20 ../../Pico/sound/sn76496.o
+ .debug_aranges
+                0x000003d0       0x20 ../../Pico/sound/ym2612.o
+ .debug_aranges
+                0x000003f0       0x20 ../../zlib/gzio.o
+ .debug_aranges
+                0x00000410       0x20 ../../zlib/inffast.o
+ .debug_aranges
+                0x00000430       0x20 ../../zlib/inflate.o
+ .debug_aranges
+                0x00000450       0x20 ../../zlib/inftrees.o
+ .debug_aranges
+                0x00000470       0x20 ../../zlib/trees.o
+ .debug_aranges
+                0x00000490       0x20 ../../zlib/deflate.o
+ .debug_aranges
+                0x000004b0       0x20 ../../zlib/crc32.o
+ .debug_aranges
+                0x000004d0       0x20 ../../zlib/adler32.o
+ .debug_aranges
+                0x000004f0       0x20 ../../zlib/zutil.o
+ .debug_aranges
+                0x00000510       0x20 ../../zlib/compress.o
+ .debug_aranges
+                0x00000530       0x20 ../../unzip/unzip.o
+ .debug_aranges
+                0x00000550       0x20 ../../unzip/unzip_stream.o
+ .debug_aranges
+                0x00000570       0x20 ../../cpu/Cyclone/proj/Cyclone.o
+ .debug_aranges
+                0x00000590       0x20 ../../cpu/DrZ80/drz80.o
+
+.debug_pubnames
+ *(.debug_pubnames)
+
+.debug_info     0x00000000    0x349a3
+ *(.debug_info .gnu.linkonce.wi.*)
+ .debug_info    0x00000000     0x18aa main.o
+ .debug_info    0x000018aa     0x3cc8 maemo.o
+ .debug_info    0x00005572     0x251d emu.o
+ .debug_info    0x00007a8f     0x2519 ../common/emu.o
+ .debug_info    0x00009fa8       0x77 ../common/fonts.o
+ .debug_info    0x0000a01f       0x26 ../common/arm_utils.o
+ .debug_info    0x0000a045      0x7f5 ../common/readpng.o
+ .debug_info    0x0000a83a      0xd86 ../common/menu.o
+ .debug_info    0x0000b5c0     0x1218 ../../Pico/Area.o
+ .debug_info    0x0000c7d8     0x1b47 ../../Pico/Cart.o
+ .debug_info    0x0000e31f     0x163e ../../Pico/Memory.o
+ .debug_info    0x0000f95d     0x1057 ../../Pico/Misc.o
+ .debug_info    0x000109b4     0x1642 ../../Pico/Pico.o
+ .debug_info    0x00011ff6      0xf93 ../../Pico/Sek.o
+ .debug_info    0x00012f89     0x1cb2 ../../Pico/VideoPort.o
+ .debug_info    0x00014c3b     0x1110 ../../Pico/Draw2.o
+ .debug_info    0x00015d4b     0x1c2b ../../Pico/Draw.o
+ .debug_info    0x00017976     0x129e ../../Pico/Patch.o
+ .debug_info    0x00018c14     0x1b08 ../../Pico/cd/Pico.o
+ .debug_info    0x0001a71c     0x1cbb ../../Pico/cd/Memory.o
+ .debug_info    0x0001c3d7     0x1989 ../../Pico/cd/Sek.o
+ .debug_info    0x0001dd60     0x1a14 ../../Pico/cd/LC89510.o
+ .debug_info    0x0001f774     0x1c8e ../../Pico/cd/cd_sys.o
+ .debug_info    0x00021402     0x1a89 ../../Pico/cd/cd_file.o
+ .debug_info    0x00022e8b     0x1b6c ../../Pico/cd/gfx_cd.o
+ .debug_info    0x000249f7     0x1c07 ../../Pico/cd/Area.o
+ .debug_info    0x000265fe      0xe8e ../../Pico/cd/Misc.o
+ .debug_info    0x0002748c     0x1979 ../../Pico/cd/pcm.o
+ .debug_info    0x00028e05     0x198e ../../Pico/cd/buffering.o
+ .debug_info    0x0002a793     0x1dc2 ../../Pico/sound/sound.o
+ .debug_info    0x0002c555      0x389 ../../Pico/sound/sn76496.o
+ .debug_info    0x0002c8de     0x1233 ../../Pico/sound/ym2612.o
+ .debug_info    0x0002db11      0xeda ../../zlib/gzio.o
+ .debug_info    0x0002e9eb      0x795 ../../zlib/inffast.o
+ .debug_info    0x0002f180      0xc70 ../../zlib/inflate.o
+ .debug_info    0x0002fdf0      0x39b ../../zlib/inftrees.o
+ .debug_info    0x0003018b     0x177b ../../zlib/trees.o
+ .debug_info    0x00031906     0x1359 ../../zlib/deflate.o
+ .debug_info    0x00032c5f      0x3ad ../../zlib/crc32.o
+ .debug_info    0x0003300c      0x168 ../../zlib/adler32.o
+ .debug_info    0x00033174      0x1c3 ../../zlib/zutil.o
+ .debug_info    0x00033337      0x2fc ../../zlib/compress.o
+ .debug_info    0x00033633      0xac1 ../../unzip/unzip.o
+ .debug_info    0x000340f4      0x863 ../../unzip/unzip_stream.o
+ .debug_info    0x00034957       0x26 ../../cpu/Cyclone/proj/Cyclone.o
+ .debug_info    0x0003497d       0x26 ../../cpu/DrZ80/drz80.o
+
+.debug_abbrev   0x00000000     0x7643
+ *(.debug_abbrev)
+ .debug_abbrev  0x00000000      0x388 main.o
+ .debug_abbrev  0x00000388      0x4c2 maemo.o
+ .debug_abbrev  0x0000084a      0x4d6 emu.o
+ .debug_abbrev  0x00000d20      0x459 ../common/emu.o
+ .debug_abbrev  0x00001179       0x49 ../common/fonts.o
+ .debug_abbrev  0x000011c2       0x14 ../common/arm_utils.o
+ .debug_abbrev  0x000011d6      0x19b ../common/readpng.o
+ .debug_abbrev  0x00001371      0x2c9 ../common/menu.o
+ .debug_abbrev  0x0000163a      0x232 ../../Pico/Area.o
+ .debug_abbrev  0x0000186c      0x37f ../../Pico/Cart.o
+ .debug_abbrev  0x00001beb      0x3b7 ../../Pico/Memory.o
+ .debug_abbrev  0x00001fa2      0x25d ../../Pico/Misc.o
+ .debug_abbrev  0x000021ff      0x34c ../../Pico/Pico.o
+ .debug_abbrev  0x0000254b      0x231 ../../Pico/Sek.o
+ .debug_abbrev  0x0000277c      0x3d0 ../../Pico/VideoPort.o
+ .debug_abbrev  0x00002b4c      0x24b ../../Pico/Draw2.o
+ .debug_abbrev  0x00002d97      0x355 ../../Pico/Draw.o
+ .debug_abbrev  0x000030ec      0x2a1 ../../Pico/Patch.o
+ .debug_abbrev  0x0000338d      0x36b ../../Pico/cd/Pico.o
+ .debug_abbrev  0x000036f8      0x3bf ../../Pico/cd/Memory.o
+ .debug_abbrev  0x00003ab7      0x339 ../../Pico/cd/Sek.o
+ .debug_abbrev  0x00003df0      0x3ba ../../Pico/cd/LC89510.o
+ .debug_abbrev  0x000041aa      0x437 ../../Pico/cd/cd_sys.o
+ .debug_abbrev  0x000045e1      0x326 ../../Pico/cd/cd_file.o
+ .debug_abbrev  0x00004907      0x3cc ../../Pico/cd/gfx_cd.o
+ .debug_abbrev  0x00004cd3      0x356 ../../Pico/cd/Area.o
+ .debug_abbrev  0x00005029      0x18b ../../Pico/cd/Misc.o
+ .debug_abbrev  0x000051b4      0x2f4 ../../Pico/cd/pcm.o
+ .debug_abbrev  0x000054a8      0x315 ../../Pico/cd/buffering.o
+ .debug_abbrev  0x000057bd      0x3e4 ../../Pico/sound/sound.o
+ .debug_abbrev  0x00005ba1      0x178 ../../Pico/sound/sn76496.o
+ .debug_abbrev  0x00005d19      0x299 ../../Pico/sound/ym2612.o
+ .debug_abbrev  0x00005fb2      0x287 ../../zlib/gzio.o
+ .debug_abbrev  0x00006239      0x198 ../../zlib/inffast.o
+ .debug_abbrev  0x000063d1      0x295 ../../zlib/inflate.o
+ .debug_abbrev  0x00006666      0x11f ../../zlib/inftrees.o
+ .debug_abbrev  0x00006785      0x298 ../../zlib/trees.o
+ .debug_abbrev  0x00006a1d      0x2fe ../../zlib/deflate.o
+ .debug_abbrev  0x00006d1b      0x189 ../../zlib/crc32.o
+ .debug_abbrev  0x00006ea4       0xab ../../zlib/adler32.o
+ .debug_abbrev  0x00006f4f      0x13c ../../zlib/zutil.o
+ .debug_abbrev  0x0000708b      0x15a ../../zlib/compress.o
+ .debug_abbrev  0x000071e5      0x298 ../../unzip/unzip.o
+ .debug_abbrev  0x0000747d      0x19e ../../unzip/unzip_stream.o
+ .debug_abbrev  0x0000761b       0x14 ../../cpu/Cyclone/proj/Cyclone.o
+ .debug_abbrev  0x0000762f       0x14 ../../cpu/DrZ80/drz80.o
+
+.debug_line     0x00000000    0x20725
+ *(.debug_line .debug_line.* .debug_line_end)
+ .debug_line    0x00000000     0x1098 main.o
+ .debug_line    0x00001098      0xd07 maemo.o
+ .debug_line    0x00001d9f      0xae1 emu.o
+ .debug_line    0x00002880     0x101c ../common/emu.o
+ .debug_line    0x0000389c       0x32 ../common/fonts.o
+ .debug_line    0x000038ce       0xa9 ../common/arm_utils.o
+ .debug_line    0x00003977      0x5c5 ../common/readpng.o
+ .debug_line    0x00003f3c      0x8b3 ../common/menu.o
+ .debug_line    0x000047ef      0x3f3 ../../Pico/Area.o
+ .debug_line    0x00004be2      0xa89 ../../Pico/Cart.o
+ .debug_line    0x0000566b      0xd67 ../../Pico/Memory.o
+ .debug_line    0x000063d2      0x4ca ../../Pico/Misc.o
+ .debug_line    0x0000689c      0xdb1 ../../Pico/Pico.o
+ .debug_line    0x0000764d      0x23a ../../Pico/Sek.o
+ .debug_line    0x00007887      0x979 ../../Pico/VideoPort.o
+ .debug_line    0x00008200      0x467 ../../Pico/Draw2.o
+ .debug_line    0x00008667     0x18ad ../../Pico/Draw.o
+ .debug_line    0x00009f14      0x5fd ../../Pico/Patch.o
+ .debug_line    0x0000a511      0x836 ../../Pico/cd/Pico.o
+ .debug_line    0x0000ad47      0x829 ../../Pico/cd/Memory.o
+ .debug_line    0x0000b570      0x2ca ../../Pico/cd/Sek.o
+ .debug_line    0x0000b83a      0x9b4 ../../Pico/cd/LC89510.o
+ .debug_line    0x0000c1ee     0x1138 ../../Pico/cd/cd_sys.o
+ .debug_line    0x0000d326      0x571 ../../Pico/cd/cd_file.o
+ .debug_line    0x0000d897      0x957 ../../Pico/cd/gfx_cd.o
+ .debug_line    0x0000e1ee      0xc95 ../../Pico/cd/Area.o
+ .debug_line    0x0000ee83      0x17f ../../Pico/cd/Misc.o
+ .debug_line    0x0000f002      0x51d ../../Pico/cd/pcm.o
+ .debug_line    0x0000f51f      0x3f6 ../../Pico/cd/buffering.o
+ .debug_line    0x0000f915      0x72b ../../Pico/sound/sound.o
+ .debug_line    0x00010040      0x53b ../../Pico/sound/sn76496.o
+ .debug_line    0x0001057b     0x1089 ../../Pico/sound/ym2612.o
+ .debug_line    0x00011604      0xd9a ../../zlib/gzio.o
+ .debug_line    0x0001239e      0x43a ../../zlib/inffast.o
+ .debug_line    0x000127d8     0x11e5 ../../zlib/inflate.o
+ .debug_line    0x000139bd      0x3ba ../../zlib/inftrees.o
+ .debug_line    0x00013d77      0xb5b ../../zlib/trees.o
+ .debug_line    0x000148d2     0x153c ../../zlib/deflate.o
+ .debug_line    0x00015e0e      0x2df ../../zlib/crc32.o
+ .debug_line    0x000160ed      0x152 ../../zlib/adler32.o
+ .debug_line    0x0001623f       0xa4 ../../zlib/zutil.o
+ .debug_line    0x000162e3       0xd4 ../../zlib/compress.o
+ .debug_line    0x000163b7      0x6ef ../../unzip/unzip.o
+ .debug_line    0x00016aa6      0x2b0 ../../unzip/unzip_stream.o
+ .debug_line    0x00016d56     0x9014 ../../cpu/Cyclone/proj/Cyclone.o
+ .debug_line    0x0001fd6a      0x9bb ../../cpu/DrZ80/drz80.o
+
+.debug_frame    0x00000000     0x472c
+ *(.debug_frame)
+ .debug_frame   0x00000000      0x1dc main.o
+ .debug_frame   0x000001dc      0x340 maemo.o
+ .debug_frame   0x0000051c      0x444 emu.o
+ .debug_frame   0x00000960      0x35c ../common/emu.o
+ .debug_frame   0x00000cbc       0x64 ../common/readpng.o
+ .debug_frame   0x00000d20      0x218 ../common/menu.o
+ .debug_frame   0x00000f38       0xd8 ../../Pico/Area.o
+ .debug_frame   0x00001010      0x274 ../../Pico/Cart.o
+ .debug_frame   0x00001284      0x37c ../../Pico/Memory.o
+ .debug_frame   0x00001600       0x88 ../../Pico/Misc.o
+ .debug_frame   0x00001688      0x224 ../../Pico/Pico.o
+ .debug_frame   0x000018ac      0x108 ../../Pico/Sek.o
+ .debug_frame   0x000019b4      0x1b4 ../../Pico/VideoPort.o
+ .debug_frame   0x00001b68       0x80 ../../Pico/Draw2.o
+ .debug_frame   0x00001be8      0x2ac ../../Pico/Draw.o
+ .debug_frame   0x00001e94      0x10c ../../Pico/Patch.o
+ .debug_frame   0x00001fa0      0x178 ../../Pico/cd/Pico.o
+ .debug_frame   0x00002118      0x170 ../../Pico/cd/Memory.o
+ .debug_frame   0x00002288      0x10c ../../Pico/cd/Sek.o
+ .debug_frame   0x00002394      0x1a4 ../../Pico/cd/LC89510.o
+ .debug_frame   0x00002538      0x458 ../../Pico/cd/cd_sys.o
+ .debug_frame   0x00002990       0xac ../../Pico/cd/cd_file.o
+ .debug_frame   0x00002a3c      0x160 ../../Pico/cd/gfx_cd.o
+ .debug_frame   0x00002b9c       0xc0 ../../Pico/cd/Area.o
+ .debug_frame   0x00002c5c       0x8c ../../Pico/cd/pcm.o
+ .debug_frame   0x00002ce8       0x88 ../../Pico/cd/buffering.o
+ .debug_frame   0x00002d70      0x290 ../../Pico/sound/sound.o
+ .debug_frame   0x00003000       0xd8 ../../Pico/sound/sn76496.o
+ .debug_frame   0x000030d8      0x38c ../../Pico/sound/ym2612.o
+ .debug_frame   0x00003464      0x414 ../../zlib/gzio.o
+ .debug_frame   0x00003878       0x38 ../../zlib/inffast.o
+ .debug_frame   0x000038b0      0x224 ../../zlib/inflate.o
+ .debug_frame   0x00003ad4       0x38 ../../zlib/inftrees.o
+ .debug_frame   0x00003b0c      0x354 ../../zlib/trees.o
+ .debug_frame   0x00003e60      0x37c ../../zlib/deflate.o
+ .debug_frame   0x000041dc      0x12c ../../zlib/crc32.o
+ .debug_frame   0x00004308       0x60 ../../zlib/adler32.o
+ .debug_frame   0x00004368       0xc8 ../../zlib/zutil.o
+ .debug_frame   0x00004430       0x80 ../../zlib/compress.o
+ .debug_frame   0x000044b0      0x21c ../../unzip/unzip.o
+ .debug_frame   0x000046cc       0x60 ../../unzip/unzip_stream.o
+
+.debug_str      0x00000000     0x6e0e
+ *(.debug_str)
+ .debug_str     0x00000000      0xf70 main.o
+                               0x11d1 (size before relaxing)
+ .debug_str     0x00000f70     0x2286 maemo.o
+                               0x316c (size before relaxing)
+ .debug_str     0x000031f6      0x5e5 emu.o
+                               0x11e9 (size before relaxing)
+ .debug_str     0x000037db      0x2a2 ../common/emu.o
+                               0x1021 (size before relaxing)
+ .debug_str     0x00003a7d       0x12 ../common/fonts.o
+                                0x111 (size before relaxing)
+ .debug_str     0x00003a8f       0x24 ../common/arm_utils.o
+                                 0x6a (size before relaxing)
+ .debug_str     0x00003ab3      0x130 ../common/readpng.o
+                                0x4b6 (size before relaxing)
+ .debug_str     0x00003be3      0x61f ../common/menu.o
+                                0xa20 (size before relaxing)
+ .debug_str     0x00004202       0xdc ../../Pico/Area.o
+                                0xa1c (size before relaxing)
+ .debug_str     0x000042de      0x4d1 ../../Pico/Cart.o
+                                0xee6 (size before relaxing)
+ .debug_str     0x000047af      0x178 ../../Pico/Memory.o
+                                0xaf1 (size before relaxing)
+ .debug_str     0x00004927       0x72 ../../Pico/Misc.o
+                                0x994 (size before relaxing)
+ .debug_str     0x00004999      0x1b0 ../../Pico/Pico.o
+                                0xb48 (size before relaxing)
+ .debug_str     0x00004b49       0x6e ../../Pico/Sek.o
+                                0x97c (size before relaxing)
+ .debug_str     0x00004bb7       0x91 ../../Pico/VideoPort.o
+                                0xc6b (size before relaxing)
+ .debug_str     0x00004c48       0xdd ../../Pico/Draw2.o
+                                0xa08 (size before relaxing)
+ .debug_str     0x00004d25      0x234 ../../Pico/Draw.o
+                                0xbbc (size before relaxing)
+ .debug_str     0x00004f59      0x11d ../../Pico/Patch.o
+                                0xa7d (size before relaxing)
+ .debug_str     0x00005076       0xbb ../../Pico/cd/Pico.o
+                                0xcab (size before relaxing)
+ .debug_str     0x00005131       0xd2 ../../Pico/cd/Memory.o
+                                0xcd0 (size before relaxing)
+ .debug_str     0x00005203       0x9c ../../Pico/cd/Sek.o
+                                0xc25 (size before relaxing)
+ .debug_str     0x0000529f       0xc1 ../../Pico/cd/LC89510.o
+                                0xc67 (size before relaxing)
+ .debug_str     0x00005360      0x222 ../../Pico/cd/cd_sys.o
+                                0xdb1 (size before relaxing)
+ .debug_str     0x00005582       0x97 ../../Pico/cd/cd_file.o
+                                0xc76 (size before relaxing)
+ .debug_str     0x00005619       0xed ../../Pico/cd/gfx_cd.o
+                                0xc86 (size before relaxing)
+ .debug_str     0x00005706      0x18c ../../Pico/cd/Area.o
+                                0xda2 (size before relaxing)
+ .debug_str     0x00005892       0x15 ../../Pico/cd/Misc.o
+                                0x92c (size before relaxing)
+ .debug_str     0x000058a7       0x49 ../../Pico/cd/pcm.o
+                                0xbf1 (size before relaxing)
+ .debug_str     0x000058f0       0x7c ../../Pico/cd/buffering.o
+                                0xc19 (size before relaxing)
+ .debug_str     0x0000596c      0x126 ../../Pico/sound/sound.o
+                                0xd77 (size before relaxing)
+ .debug_str     0x00005a92       0xd1 ../../Pico/sound/sn76496.o
+                                0x204 (size before relaxing)
+ .debug_str     0x00005b63      0x442 ../../Pico/sound/ym2612.o
+                                0x67b (size before relaxing)
+ .debug_str     0x00005fa5      0x155 ../../zlib/gzio.o
+                                0x5d7 (size before relaxing)
+ .debug_str     0x000060fa      0x1a6 ../../zlib/inffast.o
+                                0x47b (size before relaxing)
+ .debug_str     0x000062a0      0x127 ../../zlib/inflate.o
+                                0x58a (size before relaxing)
+ .debug_str     0x000063c7       0x73 ../../zlib/inftrees.o
+                                0x242 (size before relaxing)
+ .debug_str     0x0000643a      0x48d ../../zlib/trees.o
+                                0x809 (size before relaxing)
+ .debug_str     0x000068c7      0x282 ../../zlib/deflate.o
+                                0x89c (size before relaxing)
+ .debug_str     0x00006b49       0x9a ../../zlib/crc32.o
+                                0x221 (size before relaxing)
+ .debug_str     0x00006be3       0x45 ../../zlib/adler32.o
+                                0x16d (size before relaxing)
+ .debug_str     0x00006c28       0x4c ../../zlib/zutil.o
+                                0x1d5 (size before relaxing)
+ .debug_str     0x00006c74       0x2d ../../zlib/compress.o
+                                0x22c (size before relaxing)
+ .debug_str     0x00006ca1      0x109 ../../unzip/unzip.o
+                                0x777 (size before relaxing)
+ .debug_str     0x00006daa       0x2b ../../unzip/unzip_stream.o
+                                0x6e0 (size before relaxing)
+ .debug_str     0x00006dd5       0x21 ../../cpu/Cyclone/proj/Cyclone.o
+                                 0x75 (size before relaxing)
+ .debug_str     0x00006df6       0x18 ../../cpu/DrZ80/drz80.o
+                                 0x6c (size before relaxing)
+
+.debug_loc
+ *(.debug_loc)
+
+.debug_macinfo
+ *(.debug_macinfo)
+
+.debug_weaknames
+ *(.debug_weaknames)
+
+.debug_funcnames
+ *(.debug_funcnames)
+
+.debug_typenames
+ *(.debug_typenames)
+
+.debug_varnames
+ *(.debug_varnames)
+
+.debug_pubtypes
+ *(.debug_pubtypes)
+
+.debug_ranges   0x00000000      0x198
+ *(.debug_ranges)
+ .debug_ranges  0x00000000       0x18 ../common/readpng.o
+ .debug_ranges  0x00000018       0x18 ../common/menu.o
+ .debug_ranges  0x00000030       0x18 ../../Pico/Memory.o
+ .debug_ranges  0x00000048       0x18 ../../Pico/Draw2.o
+ .debug_ranges  0x00000060       0x60 ../../Pico/Draw.o
+ .debug_ranges  0x000000c0       0x30 ../../Pico/Patch.o
+ .debug_ranges  0x000000f0       0x48 ../../Pico/cd/Memory.o
+ .debug_ranges  0x00000138       0x18 ../../Pico/cd/gfx_cd.o
+ .debug_ranges  0x00000150       0x30 ../../Pico/sound/sn76496.o
+ .debug_ranges  0x00000180       0x18 ../../unzip/unzip.o
+
+.debug_macro
+ *(.debug_macro)
+
+.debug_addr
+ *(.debug_addr)
+
+.gnu.attributes
+ *(.gnu.attributes)
+
+.note.gnu.arm.ident
+ *(.note.gnu.arm.ident)
+
+/DISCARD/
+ *(.note.GNU-stack)
+ *(.gnu_debuglink)
+ *(.gnu.lto_*)
+OUTPUT(picodrive elf32-littlearm)

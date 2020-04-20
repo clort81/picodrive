@@ -1,0 +1,265 @@
+# Swedish translations for DrNokSnes
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the DrNokSnes package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 
+msgid ""
+msgstr ""
+"Project-Id-Version: DrNokSnes 1.2.5\n"
+"Report-Msgid-Bugs-To: maemo@javispedro.com\n"
+"POT-Creation-Date: 2020-04-20 11:14+0000\n"
+"PO-Revision-Date: 2010-01-28 05:00+0100\n"
+"Last-Translator: Robert Hägerström <rofo1000@gmail.com>\n"
+"Language-Team: Swedish\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: plugin.c:111
+msgid "<no rom selected>"
+msgstr "<ingen rom vald>"
+
+#: plugin.c:243
+msgid "ROM"
+msgstr "ROM"
+
+#: plugin.c:262
+msgid "Sound"
+msgstr "Ljud"
+
+#: plugin.c:266
+msgid "Controls…"
+msgstr "Kontroller…"
+
+#: plugin.c:334
+msgid "Settings…"
+msgstr "Inställningar…"
+
+#: plugin.c:336
+msgid "About…"
+msgstr "Om…"
+
+#: plugin.c:425
+msgid "No ROM selected"
+msgstr "Ingen ROM vald"
+
+#: plugin.c:430
+msgid "ROM file does not exist"
+msgstr "ROM-filen existerar inte"
+
+#: controls.c:157
+msgid "Keyboard"
+msgstr "Tangentbord"
+
+#: controls.c:161
+msgid "Disabled"
+msgstr "Inaktiverad"
+
+#: controls.c:169
+msgid "Controls"
+msgstr "Kontroller"
+
+#: controls.c:191
+#, fuzzy, c-format
+msgid "Player %d Keys"
+msgstr "Spelare %d tangenter"
+
+#: controls.c:199
+msgid "Enable keyboard"
+msgstr "Aktivera tangentbordet"
+
+#: controls.c:206
+#, fuzzy
+msgid "Configure keys…"
+msgstr "Anpassa tangenter..."
+
+#: controls.c:212
+#, fuzzy, c-format
+msgid "Player %d Touchscreen"
+msgstr "Pekskärm"
+
+#: controls.c:221
+msgid "Enable touchscreen buttons"
+msgstr "Aktivera pekskärmsknappar"
+
+#: controls.c:228
+msgid "Show on-screen button grid"
+msgstr "Visa skärmknapparnas rutnät"
+
+#: controls.c:232
+#, fuzzy, c-format
+msgid "Player %d Accelerometer"
+msgstr "Accelerometer"
+
+#: controls.c:241
+#, fuzzy
+msgid "Enable accelerometer input"
+msgstr "Accelerometer"
+
+#: controls.c:258
+#, fuzzy
+msgid "Accelerometer sensitivity"
+msgstr "Accelerometer"
+
+#: keys.c:264
+#, c-format
+msgid "Player %d keys"
+msgstr "Spelare %d tangenter"
+
+#: keys.c:267
+msgid "Defaults"
+msgstr "Standard"
+
+#: settings.c:110
+msgid "Settings"
+msgstr "Inställningar"
+
+#: settings.c:165
+msgid "Frameskip"
+msgstr ""
+
+#: settings.c:183
+msgid "Show FPS"
+msgstr ""
+
+#: settings.c:198
+msgid "Pause on power saving"
+msgstr ""
+
+#: settings.c:205
+msgid "Screen scaling"
+msgstr ""
+
+#: settings.c:212
+msgid "Pixel doubling"
+msgstr ""
+
+#: settings.c:214
+msgid "Original size"
+msgstr ""
+
+#: settings.c:216
+msgid "Stretch to fill"
+msgstr ""
+
+#: about.c:55
+msgid "About"
+msgstr "Om"
+
+#: cellrendererkey.c:10
+msgid "Press key or…"
+msgstr "Tryck på tangent eller…"
+
+#: buttons.inc:22
+msgid "Menu"
+msgstr ""
+
+#~ msgid "Player %d controls"
+#~ msgstr "Spelare %d kontroller"
+
+#~ msgid "Keys"
+#~ msgstr "tangenter"
+
+#~ msgid "Wiimote"
+#~ msgstr "Wiimote"
+
+#~ msgid "Zeemote"
+#~ msgstr "Zeemote"
+
+#, fuzzy
+#~ msgid "Enable touchscreen"
+#~ msgstr "Aktivera pekskärmsknappar"
+
+#~ msgid "Advanced"
+#~ msgstr "Avancerad"
+
+#~ msgid "Accurate graphics"
+#~ msgstr "Exakt grafik"
+
+#~ msgid "2x zoom"
+#~ msgstr "Dubbel zoom"
+
+#~ msgid "Scale to fit"
+#~ msgstr "Skala för att passa"
+
+#~ msgid "Fill the entire screen"
+#~ msgstr "Fyll hela skärmen"
+
+#~ msgid "Antialiased 2x zoom"
+#~ msgstr "Kantutjämnad dubbel zoom"
+
+#~ msgid "No zoom"
+#~ msgstr "Ingen zoom"
+
+#~ msgid "Player 1"
+#~ msgstr "Spelare 1"
+
+#~ msgid "Player 2"
+#~ msgstr "Spelare 2"
+
+#~ msgid "Zoom"
+#~ msgstr "Zoom"
+
+#~ msgid "Speedhacks"
+#~ msgstr "Speedhacks"
+
+#~ msgid "No speedhacks"
+#~ msgstr "Inga speedhacks"
+
+#~ msgid "Safe hacks only"
+#~ msgstr "Enbart säkra hack"
+
+#~ msgid "All speedhacks"
+#~ msgstr "Alla speedhacks"
+
+#~ msgid "Return to launcher"
+#~ msgstr "Tillbaka till startskärmen"
+
+#~ msgid "Fullscreen"
+#~ msgstr "Fullskärm"
+
+#~ msgid "Turbo mode"
+#~ msgstr "Turbo läge"
+
+#~ msgid "Quick Load 1"
+#~ msgstr "Snabbladda 1"
+
+#~ msgid "Quick Save 1"
+#~ msgstr "Snabbspara 1"
+
+#~ msgid "Quick Load 2"
+#~ msgstr "Snabbladda 2"
+
+#~ msgid "Quick Save 2"
+#~ msgstr "Snabbspara 2"
+
+#~ msgid "Target framerate"
+#~ msgstr "Mål bildhastighet"
+
+#~ msgid "Show while in game"
+#~ msgstr "Visa i spelet"
+
+#~ msgid "Advanced…"
+#~ msgstr "Avancerad…"
+
+#, fuzzy
+#~ msgid "Player 1…"
+#~ msgstr "Spelare 1"
+
+#, fuzzy
+#~ msgid "Player 2…"
+#~ msgstr "Spelare 2"
+
+#, fuzzy
+#~ msgid "Select ROM…"
+#~ msgstr "Välj ROM..."
+
+#~ msgid "Enable sound"
+#~ msgstr "Aktivera ljud"
+
+#~ msgid "Display framerate"
+#~ msgstr "Visa bildhastighet"
+
+#~ msgid "Framerate:"
+#~ msgstr "Bildhastighet:"
